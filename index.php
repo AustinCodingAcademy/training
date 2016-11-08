@@ -3,20 +3,20 @@
 <head>
 <title>Instructor Training</title>
 </head>
-<body style="align:center;" >
+<body style="text-align:center" >
 
 <h1>Instructor Training</h1>
 
   <h2>Planning</h2>
     <ul>
-        <li>Knowledge of Students</li>
+        <li><a href="#knowledge-of-students">Knowledge of Students</a></li>
         <li>Lesson Cycle</li>
         <li>Contribute to Curriculum</li>
     </ul>
 
   <h2>Teaching</h2>
     <ul>
-        <li><a href="#knowledge-of-students">Student Engagment</a></li>
+        <li>Student Engagment</li>
         <li>Adult Learning Strategies</li>
         <li>Classroom Structure and Layout</li>
     </ul>
