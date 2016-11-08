@@ -3,13 +3,13 @@
 <head>
 <title>Instructor Training</title>
 </head>
-<body>
+<body text-align: center;>
 
 <h1>Instructor Training</h1>
 
   <h2>Planning</h2>
     <ul>
-        <li>Knowledge of Students<li>
+        <li>Knowledge of Students</li>
         <li>Lesson Cycle</li>
         <li>Contribute to Curriculum</li>
     </ul>
