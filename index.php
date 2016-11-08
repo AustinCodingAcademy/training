@@ -4,7 +4,7 @@
 <title>Instructor Training</title>
 <link rel="stylesheet" type="text/css" href="style.css">
 </head>
-<body style="text-align:center" >
+<body>
 
 <h1>Instructor Training</h1>
 
