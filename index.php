@@ -3,7 +3,7 @@
 <head>
 <title>Instructor Training</title>
 </head>
-<body text-align: center;>
+<body style="align:center;" >
 
 <h1>Instructor Training</h1>
 
@@ -51,7 +51,9 @@
         <li>CircleCi</li>
       </ul>
 
+<div class="">
 
+</div>
 
 
 </body>
