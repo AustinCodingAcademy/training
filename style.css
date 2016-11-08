@@ -1,4 +1,12 @@
-body {
-    margin-left:30%;
+.left {
+    margin: auto;
     padding:0;
+    text-align:left;
+}
+
+.center{
+  margin: auto;
+  padding:0;
+  text-align: center;
+}
 }
