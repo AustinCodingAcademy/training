@@ -14,9 +14,9 @@
         <li>Contribute to Curriculum</li>
     </ul>
 
-  <h2>Teaching<h2>
+  <h2>Teaching</h2>
     <ul>
-        <li>Student Engagment<li>
+        <li>Student Engagment</li>
         <li>Adult Learning Strategies</li>
         <li>Classroom Structure and Layout</li>
     </ul>
@@ -30,7 +30,7 @@
         <li>Operational Responsibilities</li>
       </ul>
 
-    <h2>Helpful Links<h2>
+    <h2>Helpful Links</h2>
       <ul>
         <li>Campus Manager</li>
           <ul>
