@@ -121,19 +121,19 @@
 
           <br>
 
-    <div style = "border: 3px solid black">
+    <div style = "border: 3px solid black;">
 
       <h2 id="contribution-to-curriculum">Contribution to Curriculum</h2>
 
     </div>
 
-    <div style = "border: 3px solid black">
+    <div style = "border: 3px solid black;">
 
       <h2 id="student-engagement">Student Engagement</h2>
 
     </div>
 
-    <div style = "border: 3px solid black">
+    <div style = "border: 3px solid black;">
 
       <h2 id="adult-learning-strategies">Adult Learning Strategies</h2>
 
