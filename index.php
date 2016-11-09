@@ -128,6 +128,32 @@
 
       <h2 id="contribution-to-curriculum">Contribution to Curriculum</h2>
 
+      <p>As an instructor or TA, you are expected to contribute to curriculum. It is through
+        the iterative process that our curriculum becomes the strongest in the industry. It also
+        helps us keep our curriculum up to date.</p>
+
+
+      <p>Video explaining how to contribute to curriculum (need to make They can click "Edit this Page"
+        in the textbook itself)</p>
+
+
+      <p>Please review the curriculum for your upcoming class.<p>
+
+
+          <h4>Austin</h4>
+              <p><a href="https://web.austincodingacademy.com/">Intro</a></p>
+              <p><a href="https://javascript.austincodingacademy.com/">Intermediate</a></p>
+              <p><a href="https://fullstack.austincodingacademy.com/">Advanced</a></p>
+
+
+          <h4>San Antonio, Houston, Dallas</h4>
+            <p><a href="https://ciw.austincodingacademy.com/">Intro</a></p>
+            <p><a href="https://csharp.austincodingacademy.com/">Intermediate</a></p>
+            <p><a href="https://dotnet.austincodingacademy.com/">Advanced</a></p>
+
+          <p>Email clofton@austincodingacademy.com if you have trouble logging in.</p>
+
+
     </div>
 
       <br>
