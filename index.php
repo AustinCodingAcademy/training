@@ -4,7 +4,7 @@
 <title>Instructor Training</title>
 <link rel="stylesheet" type="text/css" href="css/style.css">
 </head>
-  <body style="margin: 10px 350px 10px 350px; padding: 10px;">
+  <body style="margin: 10px 320px 10px 320px; padding: 10px;">
 
   <h1>Instructor Training</h1>
     <p>During this training, you will work in 3 domains: Planning, Teaching, and Professionalism. Each domain consists of
@@ -41,18 +41,18 @@
                   <p><a href="">Rocket Chat</a></p>
                   <p><a href="">CircleCi</a></p>
 
-      <div style = "border: 3px solid black; text-align:center;">
+      <div style = "border: 3px solid black; text-align:center; padding: 10px;">
 
       <h2 id="knowledge-of-students">Knowledge of Students</h2>
           <p>Knowledge of Students Video:Need to make</p>
           <p>Read this <a href="https://mindstepsinc.com/2012/09/activating-prior-knowledge/">Knowledge of Students Article</a></p>
           <p>Complete this assessment:</p>
           <iframe src="https://docs.google.com/a/austincodingacademy.com/forms/d/e/1FAIpQLSe4tujNP3wskr3ac2ZM4W0oGSH5x9PHODIHeqGGTRGCG7gwmA/viewform?embedded=true"
-          width="560" height="315" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+          width="500" height="300" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
 
       </div>
 
-      <div style="border: 3px solid black; text-align:center;">
+      <div style="border: 3px solid black; text-align:center; padding: 10px;">
 
       <h2 id="lesson-cycle">Lesson Cycle</h2>
           <p>A lesson plan is required for each class you teach.</p>
@@ -74,12 +74,12 @@
           <p>Include hands on coding examples for students to play with. (<a href="http://codepen.io/">CodePen</a>)</p>
           <p>Watch this video: Carol Dweck’s TED Talk.</p>
 
-          <iframe width="560" height="315" src="https://www.youtube.com/embed/J-swZaKN2Ic" frameborder="0" allowfullscreen></iframe>
+          <iframe width="500" height="300" src="https://www.youtube.com/embed/J-swZaKN2Ic" frameborder="0" allowfullscreen></iframe>
 
           <p>Answer the questions on this form:</p>
 
           <iframe src="https://docs.google.com/a/austincodingacademy.com/forms/d/e/1FAIpQLSeVaFDnP3IXtwdzg93XM_XjgVdUSLnls--ajgdOXO6EAbwWmg/viewform?embedded=true"
-          width="560" height="315" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+          width="500" height="300" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
 
           <br>
 
@@ -115,25 +115,25 @@
 
           <h3>Summative Assessment</h3>
 
-          <iframe src="https://docs.google.com/a/austincodingacademy.com/forms/d/e/1FAIpQLSdvc2eWs9pKqCUw7SzJUmyVkuA7-xFDFWs0n1LCrJikYQXVRg/viewform?embedded=true" width="560" height="315" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+          <iframe src="https://docs.google.com/a/austincodingacademy.com/forms/d/e/1FAIpQLSdvc2eWs9pKqCUw7SzJUmyVkuA7-xFDFWs0n1LCrJikYQXVRg/viewform?embedded=true" width="500" height="300" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
 
         </div>
 
           <br>
 
-    <div style = "border: 3px solid black; text-align:center;">
+    <div style = "border: 3px solid black; text-align:center; padding: 10px;">
 
       <h2 id="contribution-to-curriculum">Contribution to Curriculum</h2>
 
     </div>
 
-    <div style="border:3px solid black; text-align:center;">
+    <div style="border:3px solid black; text-align:center; padding: 10px;">
 
       <h2 id="student-engagement">Student Engagement</h2>
 
     </div>
 
-    <div style = "border: 3px solid black;">
+    <div style="border:3px solid black; text-align:center; padding: 10px;">
 
       <h2 id="adult-learning-strategies">Adult Learning Strategies</h2>
 
