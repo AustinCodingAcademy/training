@@ -27,17 +27,14 @@
           <p><a href="#coaching-and-evaluation">Coaching and Evaluation</a></p>
 
           <h2>Helpful Links</h2>
-            <h4>Campus Manager</h4>
-                  <p><a href="">Attendance</a></p>
-                  <p><a href="">Grades</a></p>
-                  <p><a href="">Screencasts</a></p>
-              <h4>Github</h4>
-                  <p>Getting students started with the workbook</p>
-                      <p><a href="">Desktop Application</a></p>
-                      <p><a href="">Terminal</a></p>
-              <h4><a href="">Gitbooks</a></h4>
-              <h4><a href="">Rocket Chat</a></h4>
-              <h4><a href="">CircleCi</a></h4>
+                  <p><a href="">Campus Manager Attendance</a></p>
+                  <p><a href="">Campus Manager Grades</a></p>
+                  <p><a href="">Campus Manager Screencasts</a></p>
+                  <p><a href="">Github Desktop Application</a></p>
+                  <p><a href="">Github Terminal</a></p>
+                  <p><a href="">Gitbooks</a></p>
+                  <p><a href="">Rocket Chat</a></p>
+                  <p><a href="">CircleCi</a></p>
 
       <h2 id="knowledge-of-students">Knowledge of Students</h2>
           <p>Knowledge of Students Video:Need to make</p>
