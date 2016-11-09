@@ -41,12 +41,19 @@
                   <p><a href="">Rocket Chat</a></p>
                   <p><a href="">CircleCi</a></p>
 
+      <div style=border: 1px>
+
       <h2 id="knowledge-of-students">Knowledge of Students</h2>
           <p>Knowledge of Students Video:Need to make</p>
           <p>Read this <a href="https://mindstepsinc.com/2012/09/activating-prior-knowledge/">Knowledge of Students Article</a></p>
           <p>Complete this assessment:</p>
           <iframe src="https://docs.google.com/a/austincodingacademy.com/forms/d/e/1FAIpQLSe4tujNP3wskr3ac2ZM4W0oGSH5x9PHODIHeqGGTRGCG7gwmA/viewform?embedded=true"
           width="560" height="315" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+
+      </div>
+
+      <div style=border: 1px>
+
 
       <h2 id="lesson-cycle">Lesson Cycle</h2>
           <p>A lesson plan is required for each class you teach.</p>
@@ -111,17 +118,28 @@
 
           <iframe src="https://docs.google.com/a/austincodingacademy.com/forms/d/e/1FAIpQLSdvc2eWs9pKqCUw7SzJUmyVkuA7-xFDFWs0n1LCrJikYQXVRg/viewform?embedded=true" width="560" height="315" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
 
+        </div>
+
           <br>
+
+    <div style=border: 1px>
 
       <h2 id="contribution-to-curriculum">Contribution to Curriculum</h2>
 
+    </div>
+
+    <div style=border: 1px>
 
       <h2 id="student-engagement">Student Engagement</h2>
 
+    </div>
+
+    <div style=border: 1px>
 
       <h2 id="adult-learning-strategies">Adult Learning Strategies</h2>
 
-
+    </div>
+    
       <h2 id="classroom-structure-and-layout">Classroom Structures and Layout</h2>
 
 
