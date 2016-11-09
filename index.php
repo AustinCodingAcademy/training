@@ -24,7 +24,7 @@
           <p>Economic Collaboratives</p>
           <p>Continued Learning</p>
           <p>Ethics and Sensitivity</p>
-          <p>On-Boarding Paperwork (pnk to docusign coming soon)</p>
+          <p>On-Boarding Paperwork (link to docusign coming soon)</p>
           <p>Operational Responsibipties</p>
       <div>
 
