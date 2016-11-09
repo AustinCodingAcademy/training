@@ -1,9 +1,9 @@
 .links {
     padding:0;
-    float: right;
+    float: left;
 }
 
-.body {
+body {
   margin: auto;
   padding:0;
   text-align: center;

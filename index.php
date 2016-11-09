@@ -4,9 +4,32 @@
 <title>Instructor Training</title>
 <link rel="stylesheet" type="text/css" href="css/style.css">
 </head>
-<body style="text-align:center">
+  <body style="text-align:center">
 
-<h1>Instructor Training</h1>
+  <h1>Instructor Training</h1>
+
+  <div class="links">
+    <h2>Helpful Links</h2>
+      <ul>
+        <li>Campus Manager</li>
+          <ul>
+            <li><a href="">Attendance</a></li>
+            <li><a href="">Grades</a></li>
+            <li><a href="">Screencasts</a></li>
+          </ul>
+        <li>Github</li>
+          <ul>
+            <li>Getting students started with the workbook</li>
+              <ul>
+                <li><a href="">Desktop Application</a></li>
+                <li><a href="">Terminal</a></li>
+              </ul>
+          </ul>
+        <li><a href="">Gitbooks</a></li>
+        <li><a href="">Rocket Chat</a></li>
+        <li><a href="">CircleCi</a></li>
+      </ul>
+    </div>
 
     <h2>Planning</h2>
           <p><a href="#knowledge-of-students">Knowledge of Students</a></p>
@@ -25,29 +48,6 @@
           <p><a href="#on-boarding-paperwork">On-Boarding Paperwork (link to docusign coming soon)</a></p>
           <p><a href="#operational-responsibilities">Operational Responsibipties</a></p>
           <p><a href="#coaching-and-evaluation">Coaching and Evaluation</a></p>
-
-    <div class="links">
-      <h2>Helpful Links</h2>
-        <ul>
-          <li>Campus Manager</li>
-            <ul>
-              <li><a href="">Attendance</a></li>
-              <li><a href="">Grades</a></li>
-              <li><a href="">Screencasts</a></li>
-            </ul>
-          <li>Github</li>
-            <ul>
-              <li>Getting students started with the workbook</li>
-                <ul>
-                  <li><a href="">Desktop Application</a></li>
-                  <li><a href="">Terminal</a></li>
-                </ul>
-            </ul>
-          <li><a href="">Gitbooks</a></li>
-          <li><a href="">Rocket Chat</a></li>
-          <li><a href="">CircleCi</a></li>
-        </ul>
-      </div>
 
 
       <h2 id="knowledge-of-students">Knowledge of Students</h2>
