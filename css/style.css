@@ -4,10 +4,10 @@
     text-align: left;
 }
 
-body {
+html {
   margin-left: 20%;
   margin-right: 20%;
   padding: 10px;
   text-align: left;
-  color: blue;
+  background-color: blue;
 }

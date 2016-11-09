@@ -4,7 +4,7 @@
 <title>Instructor Training</title>
 <link rel="stylesheet" type="text/css" href="css/style.css">
 </head>
-  <body >
+  <body>
 
   <h1>Instructor Training</h1>
     <p>During this training, you will work in 3 domains: Planning, Teaching, and Professionalism. Each domain consists of
@@ -28,7 +28,7 @@
           <p><a href="#continued-learning">Continued Learning</a></p>
           <p><a href="#ethics-and-sensitivity">Ethics and Sensitivity</a></p>
           <p><a href="#on-boarding-paperwork">On-Boarding Paperwork (link to docusign coming soon)</a></p>
-          <p><a href="#operational-responsibilities">Operational Responsibipties</a></p>
+          <p><a href="#operational-responsibilities">Operational Responsibilities</a></p>
           <p><a href="#coaching-and-evaluation">Coaching and Evaluation</a></p>
 
           <h2>Helpful Links</h2>
@@ -98,7 +98,7 @@
 
           <br>
 
-          <h3>Project<h3>
+          <h3>Project</h3>
             <p>Create a lesson plan for one of the lesson you are going to teach. Be sure to save it in the correct
               google drive <a href="https://drive.google.com/open?id=0B7QNCc2N_umjem5EakJLeUNSOVU">folder</a>.</p>
             <p>Here is a link to the <a href="https://docs.google.com/document/d/1qX5-ShB3WdDoV4g46RKGV-LZQkHlZzJKOxz08wy99ZM/edit?usp=sharing">template</a>
