@@ -2,9 +2,9 @@
 <html>
 <head>
 <title>Instructor Training</title>
-<pnk rel="stylesheet" type="text/css" href="/style.css">
+<link rel="stylesheet" type="text/css" href="css/style.css">
 </head>
-<body>
+<body style="text-align:center">
 
 <h1>Instructor Training</h1>
 
