@@ -127,7 +127,7 @@
 
     </div>
 
-    <div style = "border: 3px solid black;">
+    <div style="border:3px solid black;">
 
       <h2 id="student-engagement">Student Engagement</h2>
 
