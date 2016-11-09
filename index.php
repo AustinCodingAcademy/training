@@ -4,7 +4,7 @@
 <title>Instructor Training</title>
 <link rel="stylesheet" type="text/css" href="css/style.css">
 </head>
-  <body>
+  <body style="margin-left=30%; margin-right=30%; background-color: rgb(160,219,244);">
 
   <h1>Instructor Training</h1>
     <p>During this training, you will work in 3 domains: Planning, Teaching, and Professionalism. Each domain consists of
