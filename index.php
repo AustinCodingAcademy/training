@@ -41,7 +41,7 @@
                   <p><a href="">Rocket Chat</a></p>
                   <p><a href="">CircleCi</a></p>
 
-      <div style = "border: 3px solid black">
+      <div style = "border: 3px solid black; text-align:center;">
 
       <h2 id="knowledge-of-students">Knowledge of Students</h2>
           <p>Knowledge of Students Video:Need to make</p>
@@ -52,7 +52,7 @@
 
       </div>
 
-      <div style="border: 3px solid black">
+      <div style="border: 3px solid black; text-align:center;">
 
       <h2 id="lesson-cycle">Lesson Cycle</h2>
           <p>A lesson plan is required for each class you teach.</p>
@@ -121,13 +121,13 @@
 
           <br>
 
-    <div style = "border: 3px solid black;">
+    <div style = "border: 3px solid black; text-align:center;">
 
       <h2 id="contribution-to-curriculum">Contribution to Curriculum</h2>
 
     </div>
 
-    <div style="border:3px solid black;">
+    <div style="border:3px solid black; text-align:center;">
 
       <h2 id="student-engagement">Student Engagement</h2>
 
