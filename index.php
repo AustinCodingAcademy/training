@@ -31,15 +31,11 @@
           <p><a href="#operational-responsibilities">Operational Responsibilities</a></p>
           <p><a href="#coaching-and-evaluation">Coaching and Evaluation</a></p>
 
-          <h2>Helpful Links</h2>
-                  <p><a href="">Campus Manager Attendance</a></p>
-                  <p><a href="">Campus Manager Grades</a></p>
-                  <p><a href="">Campus Manager Screencasts</a></p>
-                  <p><a href="">Github Desktop Application</a></p>
-                  <p><a href="">Github Terminal</a></p>
-                  <p><a href="">Gitbooks</a></p>
-                  <p><a href="">Rocket Chat</a></p>
-                  <p><a href="">CircleCi</a></p>
+          <br>
+
+          <h2><a href="/helpful-links.php">Helpful Links</a></h2>
+
+          <br>
 
       <div style = "border: 3px solid black; text-align:center; padding: 10px;">
 
@@ -51,6 +47,8 @@
           width="400" height="250" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
 
       </div>
+
+      <br>
 
       <div style="border: 3px solid black; text-align:center; padding: 10px;">
 
@@ -127,36 +125,72 @@
 
     </div>
 
-    <div style="border:3px solid black; text-align:center; padding: 10px;">
+      <br>
+
+    <div style = "border: 3px solid black; text-align:center; padding: 10px;">
+
 
       <h2 id="student-engagement">Student Engagement</h2>
 
     </div>
 
-    <div style="border:3px solid black; text-align:center; padding: 10px;">
+      <br>
+
+    <div style = "border: 3px solid black; text-align:center; padding: 10px;">
+
 
       <h2 id="adult-learning-strategies">Adult Learning Strategies</h2>
 
     </div>
 
+      <br>
+
+    <div style = "border: 3px solid black; text-align:center; padding: 10px;">
+
       <h2 id="classroom-structure-and-layout">Classroom Structures and Layout</h2>
 
+    </div>
+
+      <br>
+
+    <div style = "border: 3px solid black; text-align:center; padding: 10px;">
 
       <h2 id="economic-collaboratives">Economic Collaboration</h2>
 
+    </div>
+
+      <br>
+
+    <div style = "border: 3px solid black; text-align:center; padding: 10px;">
 
       <h2 id="on-boarding-paperwork">On-Boarding Paperwork</h2>
 
+    </div>
+
+      <br>
+
+    <div style = "border: 3px solid black; text-align:center; padding: 10px;">
 
       <h2 id="ethics-and-sensitivity">Ethics and Sensitivity</h2>
 
+    </div>
+
+      <br>
+
+    <div style = "border: 3px solid black; text-align:center; padding: 10px;">
 
       <h2 id="operational-responsibilities">Operational Responsibilities</h2>
+
+    </div>
+
+      <br>
+
+    <div style = "border: 3px solid black; text-align:center; padding: 10px;">
 
 
       <h2 id="coaching-and-evaluation">Coaching and Evaluation</h2>
 
-
+    </div>
 
 </body>
 </html>
