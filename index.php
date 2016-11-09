@@ -32,34 +32,33 @@
 
       <h2>Helpful Links</h2>
         <ul>
-          <p>Campus Manager</p>
+          <li>Campus Manager</li>
             <ul>
-              <p>Attendance</p>
-              <p>Grades</p>
-              <p>Screencasts</p>
+              <p>Attendance</li>
+              <li>Grades</li>
+              <li>Screencasts</li>
             </ul>
-          <p>Github</p>
+          <li>Github</li>
             <ul>
-              <p>Getting students started with the workbook</p>
+              <li>Getting students started with the workbook</li>
                 <ul>
-                  <p>Desktop App</p>
-                  <p>Terminal</p>
+                  <li>Desktop Application</li>
+                  <li>Terminal</li>
                 </ul>
             </ul>
-          <p>Gitbooks</p>
-          <p>Rocket Chat</p>
-          <p>CircleCi</p>
+          <li>Gitbooks</li>
+          <li>Rocket Chat</li>
+          <li>CircleCi</li>
         </ul>
 
       </div>
 
-    <div id="knowledge-of-students">
-      <h2>Knowledge of Students</h2>
-        <ul>
+
+    <div class="center">
+      <h2 id="knowledge-of-students">Knowledge of Students</h2>
           <p>Knowledge of Students Video:Need to make</p>
           <p>Read this <a href="https://mindstepsinc.com/2012/09/activating-prior-knowledge/">Knowledge of Students Article</a></p>
           <p>Complete this assessment:</p>
-        </ul>
           <iframe src="https://docs.google.com/a/austincodingacademy.com/forms/d/e/1FAIpQLSe4tujNP3wskr3ac2ZM4W0oGSH5x9PHODIHeqGGTRGCG7gwmA/viewform?embedded=true" width="760" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
     </div>
 
