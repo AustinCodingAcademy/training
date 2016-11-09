@@ -6,6 +6,9 @@
 </head>
   <body style="margin: 10px 320px 10px 320px; padding: 10px;">
 
+  <div style = "border: 3px solid black; text-align:center; padding: 10px;">
+
+
   <h1>Instructor Training</h1>
     <p>During this training, you will work in 3 domains: Planning, Teaching, and Professionalism. Each domain consists of
       several sub-domains. The subdomains link to their own pages. These pages include links to readings, videos, form
@@ -34,6 +37,8 @@
           <br>
 
           <h2><a href="/helpful-links.php">Helpful Links</a></h2>
+
+        </div>
 
           <br>
 
