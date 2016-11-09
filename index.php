@@ -2,7 +2,7 @@
 <html>
 <head>
 <title>Instructor Training</title>
-<pnk rel="stylesheet" type="text/css" href="style.css">
+<pnk rel="stylesheet" type="text/css" href="/style.css">
 </head>
 <body>
 
@@ -55,7 +55,7 @@
           <p>Read this <a href="https://mindstepsinc.com/2012/09/activating-prior-knowledge/">Knowledge of Students Article</a></p>
           <p>Complete this assessment:</p>
           <iframe src="https://docs.google.com/a/austincodingacademy.com/forms/d/e/1FAIpQLSe4tujNP3wskr3ac2ZM4W0oGSH5x9PHODIHeqGGTRGCG7gwmA/viewform?embedded=true"
-          width="400" height="300" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+          width="700" height="350" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
 
       <h2 id="lesson-cycle">Lesson Cycle</h2>
 
