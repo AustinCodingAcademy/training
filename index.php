@@ -44,10 +44,12 @@
 
       <div style = "border: 3px solid black; text-align:center; padding: 10px;">
 
+      <div class="section">
       <h2 id="knowledge-of-students">Knowledge of Students</h2>
           <p>Knowledge of Students Video:Need to make</p>
           <p>Read this <a href="https://mindstepsinc.com/2012/09/activating-prior-knowledge/">Knowledge of Students Article</a></p>
           <p>Complete this assessment:</p>
+      </div>
           <iframe src="https://docs.google.com/a/austincodingacademy.com/forms/d/e/1FAIpQLSe4tujNP3wskr3ac2ZM4W0oGSH5x9PHODIHeqGGTRGCG7gwmA/viewform?embedded=true"
           width="400" height="250" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
 
@@ -57,63 +59,77 @@
 
       <div style="border: 3px solid black; text-align:center; padding: 10px;">
 
+      <div class="section">
       <h2 id="lesson-cycle">Lesson Cycle</h2>
           <p>A lesson plan is required for each class you teach.</p>
           <p>You will store lesson plans <a href="https://drive.google.com/drive/folders/0B7QNCc2N_umjem5EakJLeUNSOVU?usp=sharing">here</a>.</p>
           <p>Lesson Cycly Video: Need to make</p>
           <p>Review the <a href="https://docs.google.com/document/d/1qX5-ShB3WdDoV4g46RKGV-LZQkHlZzJKOxz08wy99ZM/edit">Lesson Plan Template.</a></p>
-
+      </div>
           <br>
 
+        <div class="section">
         <h3>Learning Goals</h3>
           <p>What do you want students to learn each day?</p>
           <p>You must have a defined learning goal for each day of class.</p>
           <p>Learning goals should be specific, and you must be able to test students
             to see if they actually accomplished the learning goals.</p>
+        </div>
         <br>
 
+        <div class="section">
         <h3>Lectures</h3>
           <p>Be sure to keep lectures short.</p>
           <p>Include hands on coding examples for students to play with. (<a href="http://codepen.io/">CodePen</a>)</p>
           <p>Watch this video: Carol Dweck’s TED Talk.</p>
+        </div>
 
           <iframe width="400" height="250" src="https://www.youtube.com/embed/J-swZaKN2Ic" frameborder="0" allowfullscreen></iframe>
 
+        <div class="section">
           <p>Answer the questions on this form:</p>
+        </div>
 
           <iframe src="https://docs.google.com/a/austincodingacademy.com/forms/d/e/1FAIpQLSeVaFDnP3IXtwdzg93XM_XjgVdUSLnls--ajgdOXO6EAbwWmg/viewform?embedded=true"
           width="400" height="250" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
 
           <br>
 
+          <div class="section">
           <h3>Projects</h3>
             <p>Facilitate learning through project-based instruction.</p>
             <p>Watch the video: (need to make the video and include example of it being done well in class)</p>
+          </div>
 
           <br>
 
+          <div class="section">
           <h3>Assessment</h3>
             <p>How do you know that students achieved the learning goal?</p>
             <p>You should assess each day to determine that students learned what you wanted them to.</p>
             <p>If students did not achieve the objective, you should create a plan to help them achieve the objective.</p>
             <p>Read over the <a href="http://www.algonquincollege.com/profres/assessing-students/qualities-of-good-assessment-practices/"> Qualities of a Good Assessment</a>.</p>
+          </div>
 
           <br>
 
+          <div class="section">
           <h3>Homework</h3>
             <p>Should be 10 hours a week</p>
             <p>Assign majority of homework over the weekend</p>
             <p>Homework can include projects, independent study, tutorials, reading, and research.</p>
+          </div>
 
           <br>
 
+          <div class="section">
           <h3>Project</h3>
             <p>Create a lesson plan for one of the lesson you are going to teach. Be sure to save it in the correct
               google drive <a href="https://drive.google.com/open?id=0B7QNCc2N_umjem5EakJLeUNSOVU">folder</a>.</p>
             <p>Here is a link to the <a href="https://docs.google.com/document/d/1qX5-ShB3WdDoV4g46RKGV-LZQkHlZzJKOxz08wy99ZM/edit?usp=sharing">template</a>
               you should use.</p>
             <p>When you finish creating your lesson plan, share the document (or send via email) to clofton@austincodingacademy.com.</p>
-
+          </div>
           <br>
 
           <h3>Summative Assessment</h3>
