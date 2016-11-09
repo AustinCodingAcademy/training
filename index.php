@@ -20,7 +20,7 @@
           <p>Adult Learning Strategies</p>
           <p>Classroom Structure and Layout</p>
 
-      <h2>Professionapsm</h2>
+      <h2>Professionalism</h2>
           <p>Economic Collaboratives</p>
           <p>Continued Learning</p>
           <p>Ethics and Sensitivity</p>
