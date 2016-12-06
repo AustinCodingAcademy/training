@@ -50,7 +50,7 @@
           <p>Complete this assessment:</p>
       </div>
           <iframe src="https://docs.google.com/a/austincodingacademy.com/forms/d/e/1FAIpQLSe4tujNP3wskr3ac2ZM4W0oGSH5x9PHODIHeqGGTRGCG7gwmA/viewform?embedded=true"
-          width="400" height="250" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+          width="560" height="315" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
 
       </div>
 
@@ -83,14 +83,14 @@
           <p>Watch this video: Carol Dweck’s TED Talk.</p>
         </div>
 
-          <iframe width="400" height="250" src="https://www.youtube.com/embed/J-swZaKN2Ic" frameborder="0" allowfullscreen></iframe>
+          <iframe width="560" height="315" src="https://www.youtube.com/embed/J-swZaKN2Ic" frameborder="0" allowfullscreen></iframe>
 
         <div class="section">
           <p>Answer the questions on this form:</p>
         </div>
 
           <iframe src="https://docs.google.com/a/austincodingacademy.com/forms/d/e/1FAIpQLSeVaFDnP3IXtwdzg93XM_XjgVdUSLnls--ajgdOXO6EAbwWmg/viewform?embedded=true"
-          width="400" height="250" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+          width="560" height="315" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
 
           <br>
 
