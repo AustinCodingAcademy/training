@@ -52,6 +52,19 @@
           <iframe src="https://docs.google.com/a/austincodingacademy.com/forms/d/e/1FAIpQLSe4tujNP3wskr3ac2ZM4W0oGSH5x9PHODIHeqGGTRGCG7gwmA/viewform?embedded=true"
           width="560" height="315" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
 
+          <table style="width:100%;">
+            <tr>
+              <th>Padawan</th>
+              <th>Jedi Knight</th>
+              <th>Jedi Master</th>
+            </tr>
+            <tr>
+              <td>Definition</td>
+              <td>Definition</td>
+              <td>Definition</td>
+            </tr>
+          </table>
+
       </div>
 
       <br>
