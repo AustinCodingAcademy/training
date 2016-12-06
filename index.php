@@ -29,9 +29,9 @@
           <p><a href="#economic-collaboratives">Economic Collaboratives</a></p>
           <p><a href="#continued-learning">Continued Learning</a></p>
           <p><a href="#ethics-and-sensitivity">Ethics and Sensitivity</a></p>
-          <p><a href="#on-boarding-paperwork">On-Boarding Paperwork (link to docusign coming soon)</a></p>
           <p><a href="#operational-responsibilities">Operational Responsibilities</a></p>
           <p><a href="#coaching-and-evaluation">Coaching and Evaluation</a></p>
+          <p><a href="#on-boarding-paperwork">On-Boarding Paperwork (link to docusign coming soon)</a></p>
 
           <br>
 
@@ -53,6 +53,8 @@
       </div>
           <iframe src="https://docs.google.com/a/austincodingacademy.com/forms/d/e/1FAIpQLSe4tujNP3wskr3ac2ZM4W0oGSH5x9PHODIHeqGGTRGCG7gwmA/viewform?embedded=true"
           width="560" height="315" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+
+          <br>
 
           <table style="width:100%;">
             <tr>
@@ -78,7 +80,7 @@
         <ul>
           <li>A lesson plan is required for each class you teach.</li>
           <li>You will store lesson plans <a href="https://drive.google.com/drive/folders/0B7QNCc2N_umjem5EakJLeUNSOVU?usp=sharing">here</a>.</li>
-          <li>Lesson Cycly Video: Need to make</li>
+          <li>Lesson Cycle Video: Need to make</li>
           <li>Review the <a href="https://docs.google.com/document/d/1qX5-ShB3WdDoV4g46RKGV-LZQkHlZzJKOxz08wy99ZM/edit">Lesson Plan Template.</a></li>
         </ul>
       </div>
@@ -156,6 +158,21 @@
 
           <iframe src="https://docs.google.com/a/austincodingacademy.com/forms/d/e/1FAIpQLSdvc2eWs9pKqCUw7SzJUmyVkuA7-xFDFWs0n1LCrJikYQXVRg/viewform?embedded=true" width="560" height="315" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
 
+          <br>
+
+          <table style="width:100%;">
+            <tr>
+              <th>Padawan</th>
+              <th>Jedi Knight</th>
+              <th>Jedi Master</th>
+            </tr>
+            <tr>
+              <td>Definition</td>
+              <td>Definition</td>
+              <td>Definition</td>
+            </tr>
+          </table>
+
         </div>
 
           <br>
@@ -189,6 +206,20 @@
 
           <p>Email clofton@austincodingacademy.com if you have trouble logging in.</p>
 
+          <br>
+
+          <table style="width:100%;">
+            <tr>
+              <th>Padawan</th>
+              <th>Jedi Knight</th>
+              <th>Jedi Master</th>
+            </tr>
+            <tr>
+              <td>Definition</td>
+              <td>Definition</td>
+              <td>Definition</td>
+            </tr>
+          </table>
 
     </div>
 
@@ -198,6 +229,21 @@
 
 
       <h2 id="student-engagement">Student Engagement</h2>
+
+      <br>
+
+      <table style="width:100%;">
+        <tr>
+          <th>Padawan</th>
+          <th>Jedi Knight</th>
+          <th>Jedi Master</th>
+        </tr>
+        <tr>
+          <td>Definition</td>
+          <td>Definition</td>
+          <td>Definition</td>
+        </tr>
+      </table>
 
     </div>
 
@@ -210,6 +256,21 @@
 
       <iframe width="560" height="315" src="https://www.youtube.com/embed/DSupWyxNIN0" frameborder="0" allowfullscreen></iframe>
 
+      <br>
+
+      <table style="width:100%;">
+        <tr>
+          <th>Padawan</th>
+          <th>Jedi Knight</th>
+          <th>Jedi Master</th>
+        </tr>
+        <tr>
+          <td>Definition</td>
+          <td>Definition</td>
+          <td>Definition</td>
+        </tr>
+      </table>
+
     </div>
 
       <br>
@@ -218,6 +279,21 @@
 
       <h2 id="classroom-structure-and-layout">Classroom Structures and Layout</h2>
 
+      <br>
+
+      <table style="width:100%;">
+        <tr>
+          <th>Padawan</th>
+          <th>Jedi Knight</th>
+          <th>Jedi Master</th>
+        </tr>
+        <tr>
+          <td>Definition</td>
+          <td>Definition</td>
+          <td>Definition</td>
+        </tr>
+      </table>
+
     </div>
 
       <br>
@@ -225,6 +301,98 @@
     <div style = "border: 3px solid black; text-align:center; padding: 10px;">
 
       <h2 id="economic-collaboratives">Economic Collaboration</h2>
+
+      <br>
+
+      <table style="width:100%;">
+        <tr>
+          <th>Padawan</th>
+          <th>Jedi Knight</th>
+          <th>Jedi Master</th>
+        </tr>
+        <tr>
+          <td>Definition</td>
+          <td>Definition</td>
+          <td>Definition</td>
+        </tr>
+      </table>
+
+    </div>
+
+      <br>
+
+      <div style = "border: 3px solid black; text-align:center; padding: 10px;">
+
+        <h2 id="continued-learning">Continued Learning</h2>
+
+        <br>
+
+        <table style="width:100%;">
+          <tr>
+            <th>Padawan</th>
+            <th>Jedi Knight</th>
+            <th>Jedi Master</th>
+          </tr>
+          <tr>
+            <td>Definition</td>
+            <td>Definition</td>
+            <td>Definition</td>
+          </tr>
+        </table>
+
+      </div>
+
+        <br>
+
+    <div style = "border: 3px solid black; text-align:center; padding: 10px;">
+
+      <h2 id="ethics-and-sensitivity">Ethics and Sensitivity</h2>
+
+      <br>
+
+      <table style="width:100%;">
+        <tr>
+          <th>Padawan</th>
+          <th>Jedi Knight</th>
+          <th>Jedi Master</th>
+        </tr>
+        <tr>
+          <td>Definition</td>
+          <td>Definition</td>
+          <td>Definition</td>
+        </tr>
+      </table>
+
+    </div>
+
+      <br>
+
+    <div style = "border: 3px solid black; text-align:center; padding: 10px;">
+
+      <h2 id="operational-responsibilities">Operational Responsibilities</h2>
+      <br>
+
+      <table style="width:100%;">
+        <tr>
+          <th>Padawan</th>
+          <th>Jedi Knight</th>
+          <th>Jedi Master</th>
+        </tr>
+        <tr>
+          <td>Definition</td>
+          <td>Definition</td>
+          <td>Definition</td>
+        </tr>
+      </table>
+
+    </div>
+
+      <br>
+
+    <div style = "border: 3px solid black; text-align:center; padding: 10px;">
+
+
+      <h2 id="coaching-and-evaluation">Coaching and Evaluation</h2>
 
     </div>
 
@@ -238,28 +406,6 @@
 
       <br>
 
-    <div style = "border: 3px solid black; text-align:center; padding: 10px;">
-
-      <h2 id="ethics-and-sensitivity">Ethics and Sensitivity</h2>
-
-    </div>
-
-      <br>
-
-    <div style = "border: 3px solid black; text-align:center; padding: 10px;">
-
-      <h2 id="operational-responsibilities">Operational Responsibilities</h2>
-
-    </div>
-
-      <br>
-
-    <div style = "border: 3px solid black; text-align:center; padding: 10px;">
-
-
-      <h2 id="coaching-and-evaluation">Coaching and Evaluation</h2>
-
-    </div>
 
 </body>
 </html>
