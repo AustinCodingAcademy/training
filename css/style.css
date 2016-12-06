@@ -1,7 +1,6 @@
 .section {
   text-align: left;
-  margin-left: 30%;
-  margin-right: 30%;
+  margin: 0 auto;
   padding: 5px;
   width: 300px;
 }
