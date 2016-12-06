@@ -45,9 +45,11 @@
       <h2>Domain 1: Planning</h2>
       <h2 id="knowledge-of-students">Knowledge of Students</h2>
       <div class="section">
-          <p>Knowledge of Students Video:Need to make</p>
-          <p>Read this <a href="https://mindstepsinc.com/2012/09/activating-prior-knowledge/">Knowledge of Students Article</a></p>
-          <p>Complete this assessment:</p>
+        <ul>
+          <li>Knowledge of Students Video:Need to make</li>
+          <li>Read this <a href="https://mindstepsinc.com/2012/09/activating-prior-knowledge/">Knowledge of Students Article</a></li>
+          <li>Complete this assessment:</li>
+        </ul>
       </div>
           <iframe src="https://docs.google.com/a/austincodingacademy.com/forms/d/e/1FAIpQLSe4tujNP3wskr3ac2ZM4W0oGSH5x9PHODIHeqGGTRGCG7gwmA/viewform?embedded=true"
           width="560" height="315" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
@@ -73,27 +75,33 @@
 
       <h2 id="lesson-cycle">Lesson Cycle</h2>
       <div class="section">
-          <p>A lesson plan is required for each class you teach.</p>
-          <p>You will store lesson plans <a href="https://drive.google.com/drive/folders/0B7QNCc2N_umjem5EakJLeUNSOVU?usp=sharing">here</a>.</p>
-          <p>Lesson Cycly Video: Need to make</p>
-          <p>Review the <a href="https://docs.google.com/document/d/1qX5-ShB3WdDoV4g46RKGV-LZQkHlZzJKOxz08wy99ZM/edit">Lesson Plan Template.</a></p>
+        <ul>
+          <li>A lesson plan is required for each class you teach.</li>
+          <li>You will store lesson plans <a href="https://drive.google.com/drive/folders/0B7QNCc2N_umjem5EakJLeUNSOVU?usp=sharing">here</a>.</li>
+          <li>Lesson Cycly Video: Need to make</li>
+          <li>Review the <a href="https://docs.google.com/document/d/1qX5-ShB3WdDoV4g46RKGV-LZQkHlZzJKOxz08wy99ZM/edit">Lesson Plan Template.</a></li>
+        </ul>
       </div>
           <br>
 
         <h3>Learning Goals</h3>
         <div class="section">
-          <p>What do you want students to learn each day?</p>
-          <p>You must have a defined learning goal for each day of class.</p>
-          <p>Learning goals should be specific, and you must be able to test students
-            to see if they actually accomplished the learning goals.</p>
+          <ul>
+            <li>What do you want students to learn each day?</li>
+            <li>You must have a defined learning goal for each day of class.</li>
+            <li>Learning goals should be specific, and you must be able to test students
+              to see if they actually accomplished the learning goals.</li>
+          </ul>
         </div>
         <br>
 
         <h3>Lectures</h3>
         <div class="section">
-          <p>Be sure to keep lectures short.</p>
-          <p>Include hands on coding examples for students to play with. (<a href="http://codepen.io/">CodePen</a>)</p>
-          <p>Watch this video: Carol Dweck’s TED Talk.</p>
+          <ul>
+            <li>Be sure to keep lectures short.</li>
+            <li>Include hands on coding examples for students to play with. (<a href="http://codepen.io/">CodePen</a>)</li>
+            <li>Watch this video: Carol Dweck’s TED Talk.</li>
+          </ul>
         </div>
 
           <iframe width="560" height="315" src="https://www.youtube.com/embed/J-swZaKN2Ic" frameborder="0" allowfullscreen></iframe>
@@ -146,7 +154,7 @@
 
           <h3>Summative Assessment</h3>
 
-          <iframe src="https://docs.google.com/a/austincodingacademy.com/forms/d/e/1FAIpQLSdvc2eWs9pKqCUw7SzJUmyVkuA7-xFDFWs0n1LCrJikYQXVRg/viewform?embedded=true" width="400" height="250" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+          <iframe src="https://docs.google.com/a/austincodingacademy.com/forms/d/e/1FAIpQLSdvc2eWs9pKqCUw7SzJUmyVkuA7-xFDFWs0n1LCrJikYQXVRg/viewform?embedded=true" width="560" height="315" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
 
         </div>
 
