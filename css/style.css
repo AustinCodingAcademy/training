@@ -6,10 +6,11 @@
 }
 
 table {
-    border: 1px solid black;
-    text-align: left;
+    border: 1px black solid;
+    width: 100%;
 }
 
-td {
-  width: 250px;
+th, td {
+  width: 33%;
+  text-align: left;
 }
