@@ -1,17 +1,44 @@
-<!DOCTYPE html>
+ <!DOCTYPE html>
 <html>
 <head>
 <title>Instructor Training</title>
 <link rel="stylesheet" type="text/css" href="css/style.css">
 </head>
-  <body style="margin: 10px 320px 10px 320px; padding: 10px;">
-  <div style = "border: 3px solid black; text-align:center; padding: 10px;">
+<body>
+  <div class="asset">
   <h1>Instructor Training</h1>
+    <div class="section">
     <p>During this training, you will work in 3 domains: Planning, Teaching, and Professionalism. Each domain consists of
-      several assets. The assets link to their own sections. These sections include links to readings, videos, form
-      questions, and outside activities. Your progress through the training modules will be tracked and you will receive
-      feedback. Reach out to clofton@austincodingacademy.com with any questions.
+      several assets. The assets link to their own sections. These sections include the evaluation rubric and links to learning content.
     </p>
+    <p>
+      During Academic Quality Reviews, you will receive a rating for each asset. There are 3 possibilities: Padawan, Jedi Knight, and Jedi Master.
+    </p>
+  </div>
+    <table>
+      <tr>
+        <th>Padawan</th>
+        <th>Jedi Knight</th>
+        <th>Jedi Master</th>
+      </tr>
+      <tr>
+        <td>
+          <ul>
+            <li>Beginner, needs to make progress.</li>
+          </ul>
+        </td>
+        <td>
+          <ul>
+            <li>Proficient, acceptable level of performance.</li>
+          </ul>
+        </td>
+        <td>
+          <ul>
+            <li>Expert, an example for others.</li>
+          </ul>
+        </td>
+      </tr>
+    </table>
     <h2>Domain 1: Planning</h2>
           <p><a href="#knowledge-of-students">Knowledge of Students</a></p>
           <p><a href="#lesson-cycle">Lesson Cycle</a></p>
@@ -27,14 +54,13 @@
           <p><a href="#operational-responsibilities">Operational Responsibilities</a></p>
           <p><a href="#coaching-and-evaluation">Coaching and Evaluation</a></p>
           <p><a href="#on-boarding-paperwork">On-Boarding Paperwork</a></p>
-          <br>
+
           <h2><a href="/helpful-links.php">Helpful Links</a></h2>
         </div>
-          <br>
-      <div style = "border: 3px solid black; text-align:center; padding: 10px;">
-      <h2>Domain 1: Planning</h2>
+
+      <div class="asset">
       <h2 id="knowledge-of-students">Knowledge of Students</h2>
-      <table style="width:100%;">
+      <table>
         <tr>
           <th>Padawan</th>
           <th>Jedi Knight</th>
@@ -64,14 +90,13 @@
           <li>Complete this assessment:</li>
         </ul>
       </div>
-          <iframe src="https://docs.google.com/a/austincodingacademy.com/forms/d/e/1FAIpQLSe4tujNP3wskr3ac2ZM4W0oGSH5x9PHODIHeqGGTRGCG7gwmA/viewform?embedded=true"
-          width="560" height="315" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
-          <br>
+      <div class="h_iframe">        <img class="ratio" src="http://placehold.it/8x6/ffffff/ffffff">
+        <iframe src="https://docs.google.com/a/austincodingacademy.com/forms/d/e/1FAIpQLSe4tujNP3wskr3ac2ZM4W0oGSH5x9PHODIHeqGGTRGCG7gwmA/viewform?embedded=true" style="border: 0" frameborder="0" scrolling="yes"></iframe>
       </div>
-      <br>
-      <div style="border: 3px solid black; text-align:center; padding: 10px;">
-      <h2 id="lesson-cycle">Lesson Cycle</h2>
-      <table style="width:100%;">
+      </div>
+      <div class="asset">
+        <h2 id="lesson-cycle">Lesson Cycle</h2>
+      <table>
         <tr>
           <th>Padawan</th>
           <th>Jedi Knight</th>
@@ -99,13 +124,17 @@
         </tr>
       </table>
       <div class="section">
+        <h3>Lesson Plan Template</h3>
         <ul>
           <li>A lesson plan is required for each class you teach.</li>
           <li>You will store lesson plans <a href="https://drive.google.com/drive/folders/0B7QNCc2N_umjem5EakJLeUNSOVU?usp=sharing">here</a>.</li>
           <li>Review the <a href="https://docs.google.com/document/d/1qX5-ShB3WdDoV4g46RKGV-LZQkHlZzJKOxz08wy99ZM/edit">Lesson Plan Template.</a></li>
+          <br><div class="h_iframe">            <img class="ratio" src="http://placehold.it/8x6/ffffff/ffffff">
+            <iframe src="https://docs.google.com/document/d/1qX5-ShB3WdDoV4g46RKGV-LZQkHlZzJKOxz08wy99ZM/pub" style="border: 0" frameborder="0" scrolling="yes"></iframe>
+          </div>
         </ul>
       </div>
-          <br>
+
         <h3>Learning Goals</h3>
         <div class="section">
           <ul>
@@ -115,31 +144,43 @@
               to see if they actually accomplished the learning goals.</li>
           </ul>
         </div>
-        <br>
+
         <h3>Lectures</h3>
         <div class="section">
           <ul>
             <li>Be sure to keep lectures short.</li>
             <li>Include hands on coding examples for students to play with. (<a href="http://codepen.io/">CodePen</a>)</li>
+            <br>
+            <div class="h_iframe">
+              <img class="ratio" src="http://placehold.it/8x6/ffffff/ffffff">
+              <iframe src="http://codepen.io/" style="border: 0" frameborder="0" scrolling="yes"></iframe>
+            </div>
+            <br>
             <li>Watch this video: Carol Dweck’s TED Talk.</li>
           </ul>
         </div>
-          <iframe width="560" height="315" src="https://www.youtube.com/embed/J-swZaKN2Ic" frameborder="0" allowfullscreen></iframe>
+        <br>
+        <div class="h_iframe">
+          <img class="ratio" src="http://placehold.it/8x6/ffffff/ffffff">
+          <iframe src="https://www.youtube.com/embed/J-swZaKN2Ic" style="border: 0" frameborder="0" scrolling="yes"></iframe>
+        </div>
+        <br>
         <div class="section">
           <ul>
             <li>Answer the questions on this form:</li>
           </ul>
         </div>
-          <iframe src="https://docs.google.com/a/austincodingacademy.com/forms/d/e/1FAIpQLSeVaFDnP3IXtwdzg93XM_XjgVdUSLnls--ajgdOXO6EAbwWmg/viewform?embedded=true"
-          width="560" height="315" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
-          <br>
+        <br>
+        <div class="h_iframe">
+          <img class="ratio" src="http://placehold.it/8x6/ffffff/ffffff">
+          <iframe src="https://docs.google.com/a/austincodingacademy.com/forms/d/e/1FAIpQLSeVaFDnP3IXtwdzg93XM_XjgVdUSLnls--ajgdOXO6EAbwWmg/viewform?embedded=true" style="border: 0" frameborder="0" scrolling="yes"></iframe>
+        </div>
           <h3>Projects</h3>
           <div class="section">
             <ul>
               <li>Facilitate learning through project-based instruction.</li>
             </ul>
           </div>
-          <br>
           <h3>Assessment</h3>
           <div class="section">
             <ul>
@@ -149,7 +190,6 @@
               <li>Read over the <a href="http://www.algonquincollege.com/profres/assessing-students/qualities-of-good-assessment-practices/"> Qualities of a Good Assessment</a>.</li>
             </ul>
           </div>
-          <br>
           <div class="section">
           <h3>Homework</h3>
             <ul>
@@ -158,7 +198,7 @@
               <li>Homework can include projects, independent study, tutorials, reading, and research.</li>
             </ul>
           </div>
-          <br>
+
           <div class="section">
           <h3>Project</h3>
             <ul>
@@ -169,15 +209,17 @@
               <li>When you finish creating your lesson plan, share the document (or send via email) to clofton@austincodingacademy.com.</li>
               </ul>
           </div>
-          <br>
+
           <h3>Summative Assessment</h3>
-          <iframe src="https://docs.google.com/a/austincodingacademy.com/forms/d/e/1FAIpQLSdvc2eWs9pKqCUw7SzJUmyVkuA7-xFDFWs0n1LCrJikYQXVRg/viewform?embedded=true" width="560" height="315" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+          <br><div class="h_iframe">
+            <img class="ratio" src="http://placehold.it/8x6/ffffff/ffffff">
+            <iframe src="https://docs.google.com/a/austincodingacademy.com/forms/d/e/1FAIpQLSdvc2eWs9pKqCUw7SzJUmyVkuA7-xFDFWs0n1LCrJikYQXVRg/viewform?embedded=true" style="border: 0" frameborder="0" scrolling="yes"></iframe>
+          </div>
           <br>
         </div>
-          <br>
-    <div style = "border: 3px solid black; text-align:center; padding: 10px;">
+    <div class="asset">
       <h2 id="contribution-to-curriculum">Contribution to Curriculum</h2>
-      <table style="width:100%;">
+      <table>
         <tr>
           <th>Padawan</th>
           <th>Jedi Knight</th>
@@ -222,11 +264,9 @@
           </ul>
       </div>
     </div>
-      <br>
-    <div style = "border: 3px solid black; text-align:center; padding: 10px;">
+    <div class="asset">
       <h2 id="student-engagement">Student Engagement</h2>
-      <br>
-      <table style="width:100%;">
+       <table>
         <tr>
           <th>Padawan</th>
           <th>Jedi Knight</th>
@@ -256,7 +296,7 @@
           </ul></td>
         </tr>
       </table>
-      <br>
+
       <div class="section">
         <ul>
           <li>For students to learn, they must be interested and engaged in what they are learning.</li>
@@ -264,10 +304,10 @@
         </ul>
       </div>
     </div>
-      <br>
-    <div style = "border: 3px solid black; text-align:center; padding: 10px;">
+
+    <div class="asset">
       <h2 id="adult-learning-strategies">Adult Learning Strategies</h2>
-      <table style="width:100%;">
+       <table>
         <tr>
           <th>Padawan</th>
           <th>Jedi Knight</th>
@@ -293,20 +333,23 @@
           </ul></td>
         </tr>
       </table>
-      <br>
+
       <div class="section">
         <ul>
           <li>Following adult learning strategies = good teaching!</li>
           <li>Watch the video below to learn about common characteristics of adult learners:</li>
         </ul>
       </div>
-      <iframe width="560" height="315" src="https://www.youtube.com/embed/DSupWyxNIN0" frameborder="0" allowfullscreen></iframe>
+      <br>
+      <div class="h_iframe">
+        <img class="ratio" src="http://placehold.it/8x6/ffffff/ffffff">
+        <iframe src="https://www.youtube.com/embed/DSupWyxNIN0" style="border: 0" frameborder="0" scrolling="yes"></iframe>
+      </div>
       <br>
     </div>
-      <br>
-    <div style = "border: 3px solid black; text-align:center; padding: 10px;">
+    <div class="asset">
       <h2 id="class-structure-and-layout">Class Structures and Layout</h2>
-      <table style="width:100%;">
+       <table>
         <tr>
           <th>Padawan</th>
           <th>Jedi Knight</th>
@@ -330,18 +373,23 @@
           </ul></td>
         </tr>
       </table>
-      <br>
+
       <div class="section">
         <ul>
           <li>Clearly communicate expectations to students.</li>
-          <li>Read over our <a href="https://docs.google.com/document/d/12yrtM2fiMMH1KPsqB12j4s5ypx-lWZXLCheyIhVw8-A/edit">official grading policies</a>.</li>
+          <li>Read over our <a href="https://docs.google.com/document/d/12yrtM2fiMMH1KPsqB12j4s5ypx-lWZXLCheyIhVw8-A/pub">official grading policies</a>.</li>
+          <br>
+          <div class="h_iframe">
+            <img class="ratio" src="http://placehold.it/8x6/ffffff/ffffff">
+            <iframe src="https://docs.google.com/document/d/12yrtM2fiMMH1KPsqB12j4s5ypx-lWZXLCheyIhVw8-A/pub" style="border: 0" frameborder="0" scrolling="yes"></iframe>
+          </div>
+          <br>
         </ul>
       </div>
     </div>
-      <br>
-    <div style = "border: 3px solid black; text-align:center; padding: 10px;">
+    <div class="asset">
       <h2 id="economic-collaboratives">Economic Collaboration</h2>
-      <table style="width:100%;">
+       <table>
         <tr>
           <th>Padawan</th>
           <th>Jedi Knight</th>
@@ -359,7 +407,7 @@
           </ul></td>
         </tr>
       </table>
-      <br>
+
       <div class="section">
         <p>
           Our mission at Austin Coding Academy is to get 100,000 people into tech careers that otherwise wouldn't be. Why? We believe that due to a lack of educational options, the tech community is missing in diversity. We believe that through effective and compassionate education everyone can learn to code. Bringing more people into tech is important because the tech community is literally building our future. Not only is this important for our society as a whole, but many people have a lot of potential they are not accessing in their current careers. We want to be the difference in these peoples' lives. We want to be the bridge to their better future. We want to empower them to create their own future - to become the developers and entrepreneurs our world needs.
@@ -370,10 +418,10 @@
         </ul>
       </div>
     </div>
-      <br>
-      <div style = "border: 3px solid black; text-align:center; padding: 10px;">
+
+      <div class="asset">
         <h2 id="continued-learning">Continued Learning</h2>
-        <table style="width:100%;">
+         <table>
           <tr>
             <th>Padawan</th>
             <th>Jedi Knight</th>
@@ -391,17 +439,17 @@
             </ul></td>
           </tr>
         </table>
-        <br>
+
         <div class="section">
           <ul>
             <li>Continue to seek out learning opportunities.</li>
           </ul>
         </div>
       </div>
-        <br>
-    <div style = "border: 3px solid black; text-align:center; padding: 10px;">
+
+    <div class="asset">
       <h2 id="ethics-and-sensitivity">Ethics and Sensitivity</h2>
-      <table style="width:100%;">
+       <table>
         <tr>
           <th>Padawan</th>
           <th>Jedi Knight</th>
@@ -438,10 +486,10 @@
         </ol>
       </div>
     </div>
-      <br>
-    <div style = "border: 3px solid black; text-align:center; padding: 10px;">
+
+    <div class="asset">
       <h2 id="operational-responsibilities">Operational Responsibilities</h2>
-      <table style="width:100%;">
+       <table>
         <tr>
           <th>Padawan</th>
           <th>Jedi Knight</th>
@@ -466,19 +514,31 @@
         </ul>
       </div>
     </div>
-      <br>
-    <div style = "border: 3px solid black; text-align:center; padding: 10px;">
+
+    <div class="asset">
       <h2 id="coaching-and-evaluation">Coaching and Evaluation</h2>
       <div class="section">
         <ul>
           <li>Every instructor and TA will be evaluated once per quarter.</li>
           <li><a href="https://docs.google.com/document/d/19Nc7GvRcQwSN78s7UQgjGhbP41DYFzXDAGM1UBKjFmA/edit?usp=sharing">Instructor Evaluation Form</a></li>
+          <br>
+          <div class="h_iframe">
+            <img class="ratio" src="http://placehold.it/8x6/ffffff/ffffff">
+            <iframe src="https://docs.google.com/document/d/19Nc7GvRcQwSN78s7UQgjGhbP41DYFzXDAGM1UBKjFmA/pub" style="border: 0" frameborder="0" scrolling="yes"></iframe>
+          </div>
+          <br>
           <li><a href="https://docs.google.com/document/d/1mb5RDpWlDcQ0zuRIPkvYXQd8xduSaOsRGyNhr8sFZL8/edit?usp=sharing">TA Evaluation Form</a></li>
+          <br>
+          <div class="h_iframe">
+            <img class="ratio" src="http://placehold.it/8x6/ffffff/ffffff">
+            <iframe src="https://docs.google.com/document/d/1mb5RDpWlDcQ0zuRIPkvYXQd8xduSaOsRGyNhr8sFZL8/pub" style="border: 0" frameborder="0" scrolling="yes"></iframe>
+          </div>
+          <br>
         </ul>
       </div>
     </div>
-      <br>
-    <div style = "border: 3px solid black; text-align:center; padding: 10px;">
+
+    <div class="asset">
       <h2 id="on-boarding-paperwork">On-Boarding Paperwork</h2>
       <div class="section">
         <p>
@@ -489,6 +549,6 @@
         </ul>
       </div>
     </div>
-      <br>
+
 </body>
 </html>
