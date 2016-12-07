@@ -19,7 +19,7 @@
     <h2>Domain 2: Teaching</h2>
           <p><a href="#student-engagement">Student Engagment</a></p>
           <p><a href="#adult-learning-strategies">Adult Learning Strategies</a></p>
-          <p><a href="#classroom-structure-and-layout">Classroom Structure and Layout</a></p>
+          <p><a href="#class-structure-and-layout">Class Structure and Layout</a></p>
       <h2>Domain 3: Professionalism</h2>
           <p><a href="#economic-collaboratives">Economic Collaboratives</a></p>
           <p><a href="#continued-learning">Continued Learning</a></p>
@@ -60,7 +60,6 @@
       </table>
       <div class="section">
         <ul>
-          <li>Knowledge of Students Video:Need to make</li>
           <li>Read this <a href="https://mindstepsinc.com/2012/09/activating-prior-knowledge/">Knowledge of Students Article</a></li>
           <li>Complete this assessment:</li>
         </ul>
@@ -103,7 +102,6 @@
         <ul>
           <li>A lesson plan is required for each class you teach.</li>
           <li>You will store lesson plans <a href="https://drive.google.com/drive/folders/0B7QNCc2N_umjem5EakJLeUNSOVU?usp=sharing">here</a>.</li>
-          <li>Lesson Cycle Video: Need to make</li>
           <li>Review the <a href="https://docs.google.com/document/d/1qX5-ShB3WdDoV4g46RKGV-LZQkHlZzJKOxz08wy99ZM/edit">Lesson Plan Template.</a></li>
         </ul>
       </div>
@@ -136,7 +134,6 @@
           <h3>Projects</h3>
           <div class="section">
             <p>Facilitate learning through project-based instruction.</p>
-            <p>Watch the video: (need to make the video and include example of it being done well in class)</p>
           </div>
           <br>
           <h3>Assessment</h3>
@@ -193,8 +190,6 @@
           <li>As an instructor or TA, you are expected to contribute to curriculum. It is through
           the iterative process that our curriculum becomes the strongest in the industry. It also
           helps us keep our curriculum up to date.</li>
-          <li>Video explaining how to contribute to curriculum (need to make They can click "Edit this Page"
-          in the textbook itself)</li>
           <li>Please review the curriculum for your upcoming class.<li>
         </ul>
         <h4>Austin</h4>
@@ -210,8 +205,12 @@
               <li><a href="https://dotnet.austincodingacademy.com/">Advanced</a></li>
             </ul>
             <p>Email clofton@austincodingacademy.com if you have trouble logging in.</p>
+          <h4>Contribute to Curriculum</h4>
+          <ul>
+            <li>Identify a lesson to modify.</li>
+            <li>Suggest changes by submiting a pull request</li>
+          </ul>
       </div>
-          <br>
     </div>
       <br>
     <div style = "border: 3px solid black; text-align:center; padding: 10px;">
@@ -226,24 +225,34 @@
         <tr>
           <td><ul>
               <li>Few students look busy and excited by what they are doing.</li>
-              <li></li>
-              <li></li>
-              <li></li>
+              <li>Less than 80% of students complete class.</li>
+              <li>10 or more missing assignments amongst all students.</li>
+              <li>3 or more students do not complete checkpoint corrections.</li>
+              <li>Students do not attend instructor/TA online office hours.</li>
           </ul></td>
           <td><ul>
-              <li></li>
-              <li></li>
-              <li></li>
-              <li></li>
+              <li>Some students look busy and excited by what they are doing.</li>
+              <li>85% of students complete class.</li>
+              <li>9 or less missing assignments amongst all students.</li>
+              <li>2 or less students do not complete checkpoint corrections.</li>
+              <li>Some students attend instructor/TA online office hours.</li>
           </ul></td>
           <td><ul>
-              <li></li>
-              <li></li>
-              <li></li>
-              <li></li>
+              <li>All students look busy and excited by what they are doing.</li>
+              <li>95% of students complete class.</li>
+              <li>Students have no missing assignments.</li>
+              <li>All students complete checkpoint corrections.</li>
+              <li>Most students attend instructor/TA online office hours.</li>
           </ul></td>
         </tr>
       </table>
+      <br>
+      <div class="section">
+        <ul>
+          <li>For students to learn, they must be interested and engaged in what they are learning.</li>
+          <li>Get to know your students and use the process of experimentation to detmine which instructional approaches lead to the most student engagement.</li>
+        </ul>
+      </div>
     </div>
       <br>
     <div style = "border: 3px solid black; text-align:center; padding: 10px;">
@@ -256,31 +265,37 @@
         </tr>
         <tr>
           <td><ul>
-              <li></li>
-              <li></li>
-              <li></li>
-              <li></li>
+              <li>Instructor mainly lecture which is an ineffective adult learning strategy.</li>
+              <li>The instructor does not effectively facilitate project based learning.</li>
+              <li>Instructor seldom asks questions that challenge students to think and explain.</li>
           </ul></td>
           <td><ul>
-              <li></li>
-              <li></li>
-              <li></li>
-              <li></li>
+              <li>Instructor consistently utilizes project based learning. </li>
+              <li>The instructor effectively facilitates project based learning by monitoring working groups and asking guiding questions that lead students to “a-ha” moments.</li>
+              <li>Instructor experiments with self directed learning strategies.</li>
+              <li>Instructor sometimes asks questions that challenge students to think and explain.</li>
           </ul></td>
           <td><ul>
-              <li></li>
-              <li></li>
-              <li></li>
-              <li></li>
+              <li>Instructor consistently utilizes project based learning everyday and keeps lectures to less than 20 minutes per class.</li>
+              <li>The instructor effectively facilitates project based learning by monitoring working groups and asking guiding questions that lead students to “a-ha” moments.</li>
+              <li>Instructor consistently uses self directed learning strategies.</li>
+              <li>Instructor consistently asks questions that challenge students to think and explain.</li>
           </ul></td>
         </tr>
       </table>
+      <br>
+      <div class="section">
+        <ul>
+          <li>Following adult learning strategies = good teaching!</li>
+          <li>Watch the video below to learn about common characteristics of adult learners:</li>
+        </ul>
+      </div>
       <iframe width="560" height="315" src="https://www.youtube.com/embed/DSupWyxNIN0" frameborder="0" allowfullscreen></iframe>
       <br>
     </div>
       <br>
     <div style = "border: 3px solid black; text-align:center; padding: 10px;">
-      <h2 id="classroom-structure-and-layout">Classroom Structures and Layout</h2>
+      <h2 id="class-structure-and-layout">Class Structures and Layout</h2>
       <table style="width:100%;">
         <tr>
           <th>Padawan</th>
@@ -289,25 +304,29 @@
         </tr>
         <tr>
           <td><ul>
-              <li></li>
-              <li></li>
-              <li></li>
-              <li></li>
+              <li>Grading is inconsistent.</li>
+              <li>Few comments on students’ code.</li>
+              <li>Students do not know when and what assignments are due.</li>
           </ul></td>
           <td><ul>
-              <li></li>
-              <li></li>
-              <li></li>
-              <li></li>
+              <li>Grades are updated each week.</li>
+              <li>Commenting on students’ code for most assignments.</li>
+              <li>Students always know when and what assignments are due. </li>
           </ul></td>
           <td><ul>
-              <li></li>
-              <li></li>
-              <li></li>
-              <li></li>
+              <li>Grades are updated each week.</li>
+              <li>Commenting on students’ code for every assignments.</li>
+              <li>Students always know when and what assignments are due and are aware of the desired learning outcome for each assignment.</li>
           </ul></td>
         </tr>
       </table>
+      <br>
+      <div class="section">
+        <ul>
+          <li>Clearly communicate expectations to students.</li>
+          <li>Read over our <a href="https://docs.google.com/document/d/12yrtM2fiMMH1KPsqB12j4s5ypx-lWZXLCheyIhVw8-A/edit">official grading policies</a>.</li>
+        </ul>
+      </div>
     </div>
       <br>
     <div style = "border: 3px solid black; text-align:center; padding: 10px;">
@@ -320,25 +339,26 @@
         </tr>
         <tr>
           <td><ul>
-              <li></li>
-              <li></li>
-              <li></li>
-              <li></li>
+              <li>Instructor completes minimum requirements and works for a paycheck.</li>
           </ul></td>
           <td><ul>
-              <li></li>
-              <li></li>
-              <li></li>
-              <li></li>
+              <li>Instructor works towards empowering the future generation of developers.</li>
           </ul></td>
           <td><ul>
-              <li></li>
-              <li></li>
-              <li></li>
-              <li></li>
+              <li>Instructor exceeded expectations by demonstrating a passion to empower the future generation of developers.</li>
           </ul></td>
         </tr>
       </table>
+      <br>
+      <div class="section">
+        <p>
+          Our mission at Austin Coding Academy is to get 100,000 people into tech careers that otherwise wouldn't be. Why? We believe that due to a lack of educational options, the tech community is missing in diversity. We believe that through effective and compassionate education everyone can learn to code. Bringing more people into tech is important because the tech community is literally building our future. Not only is this important for our society as a whole, but many people have a lot of potential they are not accessing in their current careers. We want to be the difference in these peoples' lives. We want to be the bridge to their better future. We want to empower them to create their own future - to become the developers and entrepreneurs our world needs.
+        </p>
+        <ul>
+          <li>We empower our students to transform their future by learning technical skills.</li>
+          <li>By succeeding in our mission, we will benefit our community.</li>
+        </ul>
+      </div>
     </div>
       <br>
       <div style = "border: 3px solid black; text-align:center; padding: 10px;">
@@ -351,25 +371,22 @@
           </tr>
           <tr>
             <td><ul>
-                <li></li>
-                <li></li>
-                <li></li>
-                <li></li>
+                <li>Instructor seldom seeks out learning resources to develop instructional abilities and programming skills.</li>
             </ul></td>
             <td><ul>
-                <li></li>
-                <li></li>
-                <li></li>
-                <li></li>
+                <li>Instructor usually seeks out learning resources to develop instructional abilities and programming skills.</li>
             </ul></td>
             <td><ul>
-                <li></li>
-                <li></li>
-                <li></li>
-                <li></li>
+                <li>Instructor always seeks out learning resources to develop instructional abilities and programming skills.</li>
             </ul></td>
           </tr>
         </table>
+        <br>
+        <div class="section">
+          <ul>
+            <li>Continue to seek out learning opportunities.</li>
+          </ul>
+        </div>
       </div>
         <br>
     <div style = "border: 3px solid black; text-align:center; padding: 10px;">
@@ -382,25 +399,34 @@
         </tr>
         <tr>
           <td><ul>
-              <li></li>
-              <li></li>
-              <li></li>
-              <li></li>
+              <li>Instructor follows ethics and sensitivity protocols.</li>
+              <li>Instructor sometimes engages in borderline offensive behavior or speech (political jokes, meeting students privately outside of class ).</li>
           </ul></td>
           <td><ul>
-              <li></li>
-              <li></li>
-              <li></li>
-              <li></li>
+              <li>Instructor follows ethics and sensitivity protocols.</li>
+              <li>Instructor does not engage in borderline offensive behavior or speech (political jokes, meeting students privately outside of class).</li>
           </ul></td>
           <td><ul>
-              <li></li>
-              <li></li>
-              <li></li>
-              <li></li>
+              <li>Instructor follows ethics and sensitivity protocols.</li>
+              <li>Instructor enforces ethics and sensitivity guidelines in classroom and teaches students how to behave and communicate in a professional environment.</li>
           </ul></td>
         </tr>
       </table>
+      <div class="section">
+        <p>We create a safe space for all of our students and employees. It's very important that we, as leaders of the school, do our part to model and represent these qualities for our students.</p>
+      <h4>Ethics</h4>
+        <ol>
+          <li>Avoid sensitive topics.</li>
+          <li>Be honest.</li>
+          <li>Understand that students are just learning and be patient with them.</li>
+          <li>Act with compassion. Put yourself in the perspective of your students.</li>
+          <li>Always respect everyone.</li>
+          <li>Take steps to make sure students are comfortable.</li>
+          <li>In a difficult situation, don't be afraid to ask for help!</li>
+          <li>An apology can go along way.</li>
+          <li>Trust is earned.</li>
+        </ol>
+      </div>
     </div>
       <br>
     <div style = "border: 3px solid black; text-align:center; padding: 10px;">
@@ -413,28 +439,24 @@
         </tr>
         <tr>
           <td><ul>
-              <li></li>
-              <li></li>
-              <li></li>
-              <li></li>
+              <li>Instructor struggles to complete operational responsibilities.</li>
           </ul></td>
           <td><ul>
-              <li></li>
-              <li></li>
-              <li></li>
-              <li></li>
+              <li>Instructor fulfills all operational responsibilities.</li>
           </ul></td>
           <td><ul>
-              <li></li>
-              <li></li>
-              <li></li>
-              <li></li>
+              <li>Instructor fulfills all operational responsibilities and goes above and beyond to help the school.</li>
           </ul></td>
         </tr>
       </table>
+      <div class="section">
+        <ul>
+          <li><a href="https://docs.google.com/document/d/1dznTV85QGEC9vCBwGDrk6RsKgPhX5wnp8yCijgOAGg4/edit?usp=sharing">Austin Operational Responsibilites</a></li>
+          <li><a href="https://docs.google.com/document/d/1RiUF_cZu9fQyUWM1Om89OzQLzeIhHeKLNRrhGsKbg4Q/edit?usp=sharing">San Antonio Operational Responsibilites</a></li>
+        </ul>
+      </div>
     </div>
       <br>
-
     <div style = "border: 3px solid black; text-align:center; padding: 10px;">
       <h2 id="coaching-and-evaluation">Coaching and Evaluation</h2>
       <table style="width:100%;">
