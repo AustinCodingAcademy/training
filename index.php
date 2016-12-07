@@ -126,38 +126,48 @@
         </div>
           <iframe width="560" height="315" src="https://www.youtube.com/embed/J-swZaKN2Ic" frameborder="0" allowfullscreen></iframe>
         <div class="section">
-          <p>Answer the questions on this form:</p>
+          <ul>
+            <li>Answer the questions on this form:</li>
+          </ul>
         </div>
           <iframe src="https://docs.google.com/a/austincodingacademy.com/forms/d/e/1FAIpQLSeVaFDnP3IXtwdzg93XM_XjgVdUSLnls--ajgdOXO6EAbwWmg/viewform?embedded=true"
           width="560" height="315" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
           <br>
           <h3>Projects</h3>
           <div class="section">
-            <p>Facilitate learning through project-based instruction.</p>
+            <ul>
+              <li>Facilitate learning through project-based instruction.</li>
+            </ul>
           </div>
           <br>
           <h3>Assessment</h3>
           <div class="section">
-            <p>How do you know that students achieved the learning goal?</p>
-            <p>You should assess each day to determine that students learned what you wanted them to.</p>
-            <p>If students did not achieve the objective, you should create a plan to help them achieve the objective.</p>
-            <p>Read over the <a href="http://www.algonquincollege.com/profres/assessing-students/qualities-of-good-assessment-practices/"> Qualities of a Good Assessment</a>.</p>
+            <ul>
+              <li>How do you know that students achieved the learning goal?</li>
+              <li>You should assess each day to determine that students learned what you wanted them to.</li>
+              <li>If students did not achieve the objective, you should create a plan to help them achieve the objective.</li>
+              <li>Read over the <a href="http://www.algonquincollege.com/profres/assessing-students/qualities-of-good-assessment-practices/"> Qualities of a Good Assessment</a>.</li>
+            </ul>
           </div>
           <br>
           <div class="section">
           <h3>Homework</h3>
-            <p>Should be 10 hours a week</p>
-            <p>Assign majority of homework over the weekend</p>
-            <p>Homework can include projects, independent study, tutorials, reading, and research.</p>
+            <ul>
+              <li>Should be 10 hours a week</li>
+              <li>Assign majority of homework over the weekend</li>
+              <li>Homework can include projects, independent study, tutorials, reading, and research.</li>
+            </ul>
           </div>
           <br>
           <div class="section">
           <h3>Project</h3>
-            <p>Create a lesson plan for one of the lesson you are going to teach. Be sure to save it in the correct
-              google drive <a href="https://drive.google.com/open?id=0B7QNCc2N_umjem5EakJLeUNSOVU">folder</a>.</p>
-            <p>Here is a link to the <a href="https://docs.google.com/document/d/1qX5-ShB3WdDoV4g46RKGV-LZQkHlZzJKOxz08wy99ZM/edit?usp=sharing">template</a>
-              you should use.</p>
-            <p>When you finish creating your lesson plan, share the document (or send via email) to clofton@austincodingacademy.com.</p>
+            <ul>
+              <li>Create a lesson plan for one of the lesson you are going to teach. Be sure to save it in the correct
+                google drive <a href="https://drive.google.com/open?id=0B7QNCc2N_umjem5EakJLeUNSOVU">folder</a>.</li>
+              <li>Here is a link to the <a href="https://docs.google.com/document/d/1qX5-ShB3WdDoV4g46RKGV-LZQkHlZzJKOxz08wy99ZM/edit?usp=sharing">template</a>
+                you should use.</li>
+              <li>When you finish creating your lesson plan, share the document (or send via email) to clofton@austincodingacademy.com.</li>
+              </ul>
           </div>
           <br>
           <h3>Summative Assessment</h3>

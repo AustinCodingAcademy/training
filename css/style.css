@@ -5,6 +5,11 @@
   width: 800px;
 }
 
-table, th, td {
+table {
     border: 1px solid black;
+    text-align: left;
+}
+
+td {
+  width: 250px;
 }
