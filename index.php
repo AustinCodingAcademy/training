@@ -147,7 +147,7 @@
     <div class="section">
       <ul>
         <li>Be sure to keep lectures short.</li>
-        <li>Include hands on coding examples for students to play with.(<a href="http://codepen.io/">CodePen</a>)</li>
+        <li>Include hands on coding examples for students to play with such as <a href="http://codepen.io/">CodePen</a>, <a href="https://dotnetfiddle.net/">.NetFiddle</a>, or <a href="https://runkit.com/home">Runkit</a>.</li>
         <li>Watch this video: Carol Dweck’s TED Talk.</li>
       </ul>
     </div>
