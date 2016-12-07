@@ -26,7 +26,7 @@
           <p><a href="#ethics-and-sensitivity">Ethics and Sensitivity</a></p>
           <p><a href="#operational-responsibilities">Operational Responsibilities</a></p>
           <p><a href="#coaching-and-evaluation">Coaching and Evaluation</a></p>
-          <p><a href="#on-boarding-paperwork">On-Boarding Paperwork (link to docusign coming soon)</a></p>
+          <p><a href="#on-boarding-paperwork">On-Boarding Paperwork</a></p>
           <br>
           <h2><a href="/helpful-links.php">Helpful Links</a></h2>
         </div>
@@ -459,64 +459,25 @@
       <br>
     <div style = "border: 3px solid black; text-align:center; padding: 10px;">
       <h2 id="coaching-and-evaluation">Coaching and Evaluation</h2>
-      <table style="width:100%;">
-        <tr>
-          <th>Padawan</th>
-          <th>Jedi Knight</th>
-          <th>Jedi Master</th>
-        </tr>
-        <tr>
-          <td><ul>
-              <li></li>
-              <li></li>
-              <li></li>
-              <li></li>
-          </ul></td>
-          <td><ul>
-              <li></li>
-              <li></li>
-              <li></li>
-              <li></li>
-          </ul></td>
-          <td><ul>
-              <li></li>
-              <li></li>
-              <li></li>
-              <li></li>
-          </ul></td>
-        </tr>
-      </table>
+      <div class="section">
+        <ul>
+          <li>Every instructor and TA will be evaluated once per quarter.</li>
+          <li><a href="https://docs.google.com/document/d/19Nc7GvRcQwSN78s7UQgjGhbP41DYFzXDAGM1UBKjFmA/edit?usp=sharing">Instructor Evaluation Form</a></li>
+          <li><a href="https://docs.google.com/document/d/1mb5RDpWlDcQ0zuRIPkvYXQd8xduSaOsRGyNhr8sFZL8/edit?usp=sharing">TA Evaluation Form</a></li>
+        </ul>
+      </div>
     </div>
       <br>
     <div style = "border: 3px solid black; text-align:center; padding: 10px;">
       <h2 id="on-boarding-paperwork">On-Boarding Paperwork</h2>
-      <table style="width:100%;">
-        <tr>
-          <th>Padawan</th>
-          <th>Jedi Knight</th>
-          <th>Jedi Master</th>
-        </tr>
-        <tr>
-          <td><ul>
-              <li></li>
-              <li></li>
-              <li></li>
-              <li></li>
-          </ul></td>
-          <td><ul>
-              <li></li>
-              <li></li>
-              <li></li>
-              <li></li>
-          </ul></td>
-          <td><ul>
-              <li></li>
-              <li></li>
-              <li></li>
-              <li></li>
-          </ul></td>
-        </tr>
-      </table>
+      <div class="section">
+        <p>
+          All new hires must complete on-boarding paperwork:
+        </p>
+        <ul>
+          <li>Link to onboarding paperwork coming soon</li>
+        </ul>
+      </div>
     </div>
       <br>
 </body>
