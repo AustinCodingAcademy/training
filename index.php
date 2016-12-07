@@ -148,14 +148,6 @@
       <ul>
         <li>Be sure to keep lectures short.</li>
         <li>Include hands on coding examples for students to play with.(<a href="http://codepen.io/">CodePen</a>)</li>
-      </ul>
-      <br>
-      <div class="h_iframe">
-        <img class="ratio" src="http://placehold.it/8x6/ffffff/ffffff">
-        <iframe src="http://codepen.io/" style="border: 0" frameborder="0" scrolling="yes"></iframe>
-      </div>
-      <br>
-      <ul>
         <li>Watch this video: Carol Dweck’s TED Talk.</li>
       </ul>
     </div>
