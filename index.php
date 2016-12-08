@@ -90,7 +90,7 @@
         <li>Complete this assessment:</li>
       </ul>
     </div>
-    <div class="h_iframe">        <img class="ratio" src="http://placehold.it/8x6/ffffff/ffffff">
+    <div class="h_iframe">        <img class="ratio" src="http://placehold.it/8x13/ffffff/ffffff">
       <iframe src="https://docs.google.com/a/austincodingacademy.com/forms/d/e/1FAIpQLSe4tujNP3wskr3ac2ZM4W0oGSH5x9PHODIHeqGGTRGCG7gwmA/viewform?embedded=true" style="border: 0" frameborder="0" scrolling="yes"></iframe>
     </div>
     <div class="section">
@@ -140,7 +140,7 @@
         <li>Review the <a href="https://docs.google.com/document/d/1qX5-ShB3WdDoV4g46RKGV-LZQkHlZzJKOxz08wy99ZM/edit">Lesson Plan Template.</a></li>
       </ul>
       <br>
-      <div class="h_iframe">            <img class="ratio" src="http://placehold.it/8x6/ffffff/ffffff">
+      <div class="h_iframe">            <img class="ratio" src="http://placehold.it/8x9/ffffff/ffffff">
         <iframe src="https://docs.google.com/document/d/1qX5-ShB3WdDoV4g46RKGV-LZQkHlZzJKOxz08wy99ZM/pub" style="border: 0" frameborder="0" scrolling="yes"></iframe>
       </div>
     </div>
@@ -173,7 +173,7 @@
     </div>
     <br>
     <div class="h_iframe">
-      <img class="ratio" src="http://placehold.it/8x6/ffffff/ffffff">
+      <img class="ratio" src="http://placehold.it/8x14/ffffff/ffffff">
       <iframe src="https://docs.google.com/a/austincodingacademy.com/forms/d/e/1FAIpQLSeVaFDnP3IXtwdzg93XM_XjgVdUSLnls--ajgdOXO6EAbwWmg/viewform?embedded=true" style="border: 0" frameborder="0" scrolling="yes"></iframe>
     </div>
     <h3>Projects</h3>
@@ -210,7 +210,7 @@
     <h3>Summative Assessment</h3>
     <br>
     <div class="h_iframe">
-      <img class="ratio" src="http://placehold.it/8x6/ffffff/ffffff">
+      <img class="ratio" src="http://placehold.it/8x20/ffffff/ffffff">
       <iframe src="https://docs.google.com/a/austincodingacademy.com/forms/d/e/1FAIpQLSdvc2eWs9pKqCUw7SzJUmyVkuA7-xFDFWs0n1LCrJikYQXVRg/viewform?embedded=true" style="border: 0" frameborder="0" scrolling="yes"></iframe>
     </div>
     <br>
@@ -511,7 +511,7 @@
         </ul>
         <br>
         <div class="h_iframe">
-          <img class="ratio" src="http://placehold.it/8x6/ffffff/ffffff">
+          <img class="ratio" src="http://placehold.it/8x15/ffffff/ffffff">
           <iframe src="https://docs.google.com/document/d/19Nc7GvRcQwSN78s7UQgjGhbP41DYFzXDAGM1UBKjFmA/pub" style="border: 0" frameborder="0" scrolling="yes"></iframe>
         </div>
         <br>
