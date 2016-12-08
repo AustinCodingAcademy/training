@@ -100,7 +100,7 @@
     </div>
     <div class="h_iframe">
       <img class="ratio" src="http://placehold.it/8x6/ffffff/ffffff">
-      <iframe src="https://www.youtube.com/watch?v=zogm5Dom-cg&edit=vd" style="border: 0" frameborder="0" scrolling="yes"></iframe>
+      <iframe src="https://www.youtube.com/embed/qUPUSl2K3x0" style="border: 0" frameborder="0" scrolling="yes"></iframe>
     </div>
   </div>
   <div class="asset">
