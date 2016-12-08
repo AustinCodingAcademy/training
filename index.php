@@ -3,6 +3,7 @@
 <head>
   <title>Instructor Training</title>
   <link rel="stylesheet" type="text/css" href="css/style.css">
+  <link rel="shortcut icon" href="favicon.ico" type="image/x-icon"/>
 </head>
 <body>
   <div class="asset">
