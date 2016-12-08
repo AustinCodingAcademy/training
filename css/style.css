@@ -36,7 +36,7 @@ html,body {
 }
 
 .asset {
-  border: 3px solid #80c99b;
+  border: 3px solid black;
   text-align:center;
   margin: 20px 0;
   padding: 10px;
@@ -47,6 +47,7 @@ html,body {
   text-align: left;
   margin: 0 auto;
   padding: 5px;
+  width: 50%
 }
 
 .logo {
@@ -55,7 +56,11 @@ html,body {
   max-width: 400px;
 }
 
-
+.pic {
+  width: 30%;
+  min-width: 200px;
+  margin: auto;
+}
 table {
     border: 1px solid black;
     width: 100%;
@@ -83,11 +88,14 @@ tr {
 a:link {
     color: #80c99b;
     text-decoration: none;
+    /*text-shadow: 1 1 1 black;*/
+    filter: brightness(70%);
+    font-size: 20px;
 }
 
 /* visited link */
 a:visited {
-    color: #f8b232;
+    color: #80c99b;
 }
 
 /* mouse over link */

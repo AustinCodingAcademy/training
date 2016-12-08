@@ -9,6 +9,7 @@
   <div class="asset">
     <img src="img/ACA_standard_horizontal.png" alt="Austin Coding Academy" class="logo">
     <img src="img/SACA_Horizontal.png" alt="San Antonio Coding Academy" class="logo">
+    <img src="img/teaching.JPG" alt="Austin Coding Academy" class="pic">
     <h1>Instructor Training</h1>
     <div class="section">
       <p>During this training, you will work in 3 domains: Planning, Teaching, and Professionalism. Each domain consists of
@@ -93,7 +94,8 @@
         <li>Complete this assessment:</li>
       </ul>
     </div>
-    <div class="h_iframe">        <img class="ratio" src="http://placehold.it/8x13/ffffff/ffffff">
+    <div class="h_iframe">
+      <img class="ratio" src="http://placehold.it/8x13/ffffff/ffffff">
       <iframe src="https://docs.google.com/a/austincodingacademy.com/forms/d/e/1FAIpQLSe4tujNP3wskr3ac2ZM4W0oGSH5x9PHODIHeqGGTRGCG7gwmA/viewform?embedded=true" style="border: 0" frameborder="0" scrolling="yes"></iframe>
     </div>
     <div class="section">
@@ -103,7 +105,7 @@
     </div>
     <div class="h_iframe">
       <img class="ratio" src="http://placehold.it/8x6/ffffff/ffffff">
-      <iframe src="https://www.youtube.com/embed/qUPUSl2K3x0" style="border: 0" frameborder="0" scrolling="yes"></iframe>
+      <iframe src="https://youtu.be/6cmV5C9LtEY" style="border: 0" frameborder="0" scrolling="yes"></iframe>
     </div>
   </div>
   <div class="asset">
@@ -142,10 +144,11 @@
         <li>You will store lesson plans <a href="https://drive.google.com/drive/folders/0B7QNCc2N_umjem5EakJLeUNSOVU?usp=sharing">here</a>.</li>
         <li>Review the <a href="https://docs.google.com/document/d/1qX5-ShB3WdDoV4g46RKGV-LZQkHlZzJKOxz08wy99ZM/edit">Lesson Plan Template.</a></li>
       </ul>
-      <br>
-      <div class="h_iframe">            <img class="ratio" src="http://placehold.it/8x9/ffffff/ffffff">
-        <iframe src="https://docs.google.com/document/d/1qX5-ShB3WdDoV4g46RKGV-LZQkHlZzJKOxz08wy99ZM/pub" style="border: 0" frameborder="0" scrolling="yes"></iframe>
-      </div>
+    </div>
+    <br>
+    <div class="h_iframe">
+      <img class="ratio" src="http://placehold.it/8x9/ffffff/ffffff">
+      <iframe src="https://docs.google.com/document/d/1qX5-ShB3WdDoV4g46RKGV-LZQkHlZzJKOxz08wy99ZM/pub" style="border: 0" frameborder="0" scrolling="yes"></iframe>
     </div>
     <h3>Learning Goals</h3>
     <div class="section">
@@ -374,13 +377,13 @@
           <li>Clearly communicate expectations to students.</li>
           <li>Read over our <a href="https://docs.google.com/document/d/12yrtM2fiMMH1KPsqB12j4s5ypx-lWZXLCheyIhVw8-A/pub">official grading policies</a>.</li>
         </ul>
+      </div>
         <br>
         <div class="h_iframe">
           <img class="ratio" src="http://placehold.it/8x4/ffffff/ffffff">
           <iframe src="https://docs.google.com/document/d/12yrtM2fiMMH1KPsqB12j4s5ypx-lWZXLCheyIhVw8-A/pub" style="border: 0" frameborder="0" scrolling="yes"></iframe>
         </div>
         <br>
-      </div>
     </div>
     <div class="asset">
       <h2 id="economic-collaboratives">Economic Collaboration</h2>
