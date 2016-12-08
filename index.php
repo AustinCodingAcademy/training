@@ -93,6 +93,15 @@
     <div class="h_iframe">        <img class="ratio" src="http://placehold.it/8x6/ffffff/ffffff">
       <iframe src="https://docs.google.com/a/austincodingacademy.com/forms/d/e/1FAIpQLSe4tujNP3wskr3ac2ZM4W0oGSH5x9PHODIHeqGGTRGCG7gwmA/viewform?embedded=true" style="border: 0" frameborder="0" scrolling="yes"></iframe>
     </div>
+    <div class="section">
+      <ul>
+        <li>Here's a video of an instructor using student's knowledge to explain Object Oriented Programming.(<a href="https://www.youtube.com/watch?v=qUPUSl2K3x0">Link to full video</a>)</li>
+      </ul>
+    </div>
+    <div class="h_iframe">
+      <img class="ratio" src="http://placehold.it/8x6/ffffff/ffffff">
+      <iframe src="https://www.youtube.com/watch?v=zogm5Dom-cg&edit=vd" style="border: 0" frameborder="0" scrolling="yes"></iframe>
+    </div>
   </div>
   <div class="asset">
     <h2 id="lesson-cycle">Lesson Cycle</h2>
@@ -368,165 +377,165 @@
           <iframe src="https://docs.google.com/document/d/12yrtM2fiMMH1KPsqB12j4s5ypx-lWZXLCheyIhVw8-A/pub" style="border: 0" frameborder="0" scrolling="yes"></iframe>
         </div>
         <br>
+      </div>
     </div>
-  </div>
-  <div class="asset">
-    <h2 id="economic-collaboratives">Economic Collaboration</h2>
-    <table>
-      <tr>
-        <th>Padawan</th>
-        <th>Jedi Knight</th>
-        <th>Jedi Master</th>
-      </tr>
-      <tr>
-        <td><ul>
-          <li>Instructor completes minimum requirements and works for a paycheck.</li>
-        </ul></td>
-        <td><ul>
-          <li>Instructor works towards empowering the future generation of developers.</li>
-        </ul></td>
-        <td><ul>
-          <li>Instructor exceeded expectations by demonstrating a passion to empower the future generation of developers.</li>
-        </ul></td>
-      </tr>
-    </table>
-    <div class="section">
-      <p>
-        Our mission at Austin Coding Academy is to get 100,000 people into tech careers that otherwise wouldn't be. Why? We believe that due to a lack of educational options, the tech community is missing in diversity. We believe that through effective and compassionate education everyone can learn to code. Bringing more people into tech is important because the tech community is literally building our future. Not only is this important for our society as a whole, but many people have a lot of potential they are not accessing in their current careers. We want to be the difference in these peoples' lives. We want to be the bridge to their better future. We want to empower them to create their own future - to become the developers and entrepreneurs our world needs.
-      </p>
-      <ul>
-        <li>We empower our students to transform their future by learning technical skills.</li>
-        <li>By succeeding in our mission, we will benefit our community.</li>
-      </ul>
+    <div class="asset">
+      <h2 id="economic-collaboratives">Economic Collaboration</h2>
+      <table>
+        <tr>
+          <th>Padawan</th>
+          <th>Jedi Knight</th>
+          <th>Jedi Master</th>
+        </tr>
+        <tr>
+          <td><ul>
+            <li>Instructor completes minimum requirements and works for a paycheck.</li>
+          </ul></td>
+          <td><ul>
+            <li>Instructor works towards empowering the future generation of developers.</li>
+          </ul></td>
+          <td><ul>
+            <li>Instructor exceeded expectations by demonstrating a passion to empower the future generation of developers.</li>
+          </ul></td>
+        </tr>
+      </table>
+      <div class="section">
+        <p>
+          Our mission at Austin Coding Academy is to get 100,000 people into tech careers that otherwise wouldn't be. Why? We believe that due to a lack of educational options, the tech community is missing in diversity. We believe that through effective and compassionate education everyone can learn to code. Bringing more people into tech is important because the tech community is literally building our future. Not only is this important for our society as a whole, but many people have a lot of potential they are not accessing in their current careers. We want to be the difference in these peoples' lives. We want to be the bridge to their better future. We want to empower them to create their own future - to become the developers and entrepreneurs our world needs.
+        </p>
+        <ul>
+          <li>We empower our students to transform their future by learning technical skills.</li>
+          <li>By succeeding in our mission, we will benefit our community.</li>
+        </ul>
+      </div>
     </div>
-  </div>
 
-  <div class="asset">
-    <h2 id="continued-learning">Continued Learning</h2>
-    <table>
-      <tr>
-        <th>Padawan</th>
-        <th>Jedi Knight</th>
-        <th>Jedi Master</th>
-      </tr>
-      <tr>
-        <td><ul>
-          <li>Instructor seldom seeks out learning resources to develop instructional abilities and programming skills.</li>
-        </ul></td>
-        <td><ul>
-          <li>Instructor usually seeks out learning resources to develop instructional abilities and programming skills.</li>
-        </ul></td>
-        <td><ul>
-          <li>Instructor always seeks out learning resources to develop instructional abilities and programming skills.</li>
-        </ul></td>
-      </tr>
-    </table>
-    <div class="section">
-      <ul>
-        <li>Continue to seek out learning opportunities.</li>
-      </ul>
-    </div>
-  </div>
-  <div class="asset">
-    <h2 id="ethics-and-sensitivity">Ethics and Sensitivity</h2>
-    <table>
-      <tr>
-        <th>Padawan</th>
-        <th>Jedi Knight</th>
-        <th>Jedi Master</th>
-      </tr>
-      <tr>
-        <td><ul>
-          <li>Instructor follows ethics and sensitivity protocols.</li>
-          <li>Instructor sometimes engages in borderline offensive behavior or speech (political jokes, meeting students privately outside of class ).</li>
-        </ul></td>
-        <td><ul>
-          <li>Instructor follows ethics and sensitivity protocols.</li>
-          <li>Instructor does not engage in borderline offensive behavior or speech (political jokes, meeting students privately outside of class).</li>
-        </ul></td>
-        <td><ul>
-          <li>Instructor follows ethics and sensitivity protocols.</li>
-          <li>Instructor enforces ethics and sensitivity guidelines in classroom and teaches students how to behave and communicate in a professional environment.</li>
-        </ul></td>
-      </tr>
-    </table>
-    <div class="section">
-      <p>We create a safe space for all of our students and employees. It's very important that we, as leaders of the school, do our part to model and represent these qualities for our students.</p>
-      <h4>Ethics</h4>
-      <ol>
-        <li>Avoid sensitive topics.</li>
-        <li>Be honest.</li>
-        <li>Understand that students are just learning and be patient with them.</li>
-        <li>Act with compassion. Put yourself in the perspective of your students.</li>
-        <li>Always respect everyone.</li>
-        <li>Take steps to make sure students are comfortable.</li>
-        <li>In a difficult situation, don't be afraid to ask for help!</li>
-        <li>An apology can go along way.</li>
-        <li>Trust is earned.</li>
-      </ol>
-    </div>
-  </div>
-  <div class="asset">
-    <h2 id="operational-responsibilities">Operational Responsibilities</h2>
-    <table>
-      <tr>
-        <th>Padawan</th>
-        <th>Jedi Knight</th>
-        <th>Jedi Master</th>
-      </tr>
-      <tr>
-        <td><ul>
-          <li>Instructor struggles to complete operational responsibilities.</li>
-        </ul></td>
-        <td><ul>
-          <li>Instructor fulfills all operational responsibilities.</li>
-        </ul></td>
-        <td><ul>
-          <li>Instructor fulfills all operational responsibilities and goes above and beyond to help the school.</li>
-        </ul></td>
-      </tr>
-    </table>
-    <div class="section">
-      <ul>
-        <li><a href="https://docs.google.com/document/d/1dznTV85QGEC9vCBwGDrk6RsKgPhX5wnp8yCijgOAGg4/edit?usp=sharing">Austin Operational Responsibilites</a></li>
-        <li><a href="https://docs.google.com/document/d/1RiUF_cZu9fQyUWM1Om89OzQLzeIhHeKLNRrhGsKbg4Q/edit?usp=sharing">San Antonio Operational Responsibilites</a></li>
-      </ul>
-    </div>
-  </div>
-  <div class="asset">
-    <h2 id="coaching-and-evaluation">Coaching and Evaluation</h2>
-    <div class="section">
-      <ul>
-        <li>Every instructor and TA will be evaluated once per quarter.</li>
-        <li><a href="https://docs.google.com/document/d/19Nc7GvRcQwSN78s7UQgjGhbP41DYFzXDAGM1UBKjFmA/edit?usp=sharing">Instructor Evaluation Form</a></li>
-      </ul>
-      <br>
-      <div class="h_iframe">
-        <img class="ratio" src="http://placehold.it/8x6/ffffff/ffffff">
-        <iframe src="https://docs.google.com/document/d/19Nc7GvRcQwSN78s7UQgjGhbP41DYFzXDAGM1UBKjFmA/pub" style="border: 0" frameborder="0" scrolling="yes"></iframe>
+    <div class="asset">
+      <h2 id="continued-learning">Continued Learning</h2>
+      <table>
+        <tr>
+          <th>Padawan</th>
+          <th>Jedi Knight</th>
+          <th>Jedi Master</th>
+        </tr>
+        <tr>
+          <td><ul>
+            <li>Instructor seldom seeks out learning resources to develop instructional abilities and programming skills.</li>
+          </ul></td>
+          <td><ul>
+            <li>Instructor usually seeks out learning resources to develop instructional abilities and programming skills.</li>
+          </ul></td>
+          <td><ul>
+            <li>Instructor always seeks out learning resources to develop instructional abilities and programming skills.</li>
+          </ul></td>
+        </tr>
+      </table>
+      <div class="section">
+        <ul>
+          <li>Continue to seek out learning opportunities.</li>
+        </ul>
       </div>
-      <br>
-      <ul>
-        <li><a href="https://docs.google.com/document/d/1mb5RDpWlDcQ0zuRIPkvYXQd8xduSaOsRGyNhr8sFZL8/edit?usp=sharing">TA Evaluation Form</a></li>
-      </ul>
-      <br>
-      <div class="h_iframe">
-        <img class="ratio" src="http://placehold.it/8x6/ffffff/ffffff">
-        <iframe src="https://docs.google.com/document/d/1mb5RDpWlDcQ0zuRIPkvYXQd8xduSaOsRGyNhr8sFZL8/pub" style="border: 0" frameborder="0" scrolling="yes"></iframe>
+    </div>
+    <div class="asset">
+      <h2 id="ethics-and-sensitivity">Ethics and Sensitivity</h2>
+      <table>
+        <tr>
+          <th>Padawan</th>
+          <th>Jedi Knight</th>
+          <th>Jedi Master</th>
+        </tr>
+        <tr>
+          <td><ul>
+            <li>Instructor follows ethics and sensitivity protocols.</li>
+            <li>Instructor sometimes engages in borderline offensive behavior or speech (political jokes, meeting students privately outside of class ).</li>
+          </ul></td>
+          <td><ul>
+            <li>Instructor follows ethics and sensitivity protocols.</li>
+            <li>Instructor does not engage in borderline offensive behavior or speech (political jokes, meeting students privately outside of class).</li>
+          </ul></td>
+          <td><ul>
+            <li>Instructor follows ethics and sensitivity protocols.</li>
+            <li>Instructor enforces ethics and sensitivity guidelines in classroom and teaches students how to behave and communicate in a professional environment.</li>
+          </ul></td>
+        </tr>
+      </table>
+      <div class="section">
+        <p>We create a safe space for all of our students and employees. It's very important that we, as leaders of the school, do our part to model and represent these qualities for our students.</p>
+        <h4>Ethics</h4>
+        <ol>
+          <li>Avoid sensitive topics.</li>
+          <li>Be honest.</li>
+          <li>Understand that students are just learning and be patient with them.</li>
+          <li>Act with compassion. Put yourself in the perspective of your students.</li>
+          <li>Always respect everyone.</li>
+          <li>Take steps to make sure students are comfortable.</li>
+          <li>In a difficult situation, don't be afraid to ask for help!</li>
+          <li>An apology can go along way.</li>
+          <li>Trust is earned.</li>
+        </ol>
       </div>
-      <br>
     </div>
-  </div>
-  <div class="asset">
-    <h2 id="on-boarding-paperwork">On-Boarding Paperwork</h2>
-    <div class="section">
-      <p>
-        All new hires must complete on-boarding paperwork:
-      </p>
-      <ul>
-        <li>Link to onboarding paperwork coming soon</li>
-      </ul>
+    <div class="asset">
+      <h2 id="operational-responsibilities">Operational Responsibilities</h2>
+      <table>
+        <tr>
+          <th>Padawan</th>
+          <th>Jedi Knight</th>
+          <th>Jedi Master</th>
+        </tr>
+        <tr>
+          <td><ul>
+            <li>Instructor struggles to complete operational responsibilities.</li>
+          </ul></td>
+          <td><ul>
+            <li>Instructor fulfills all operational responsibilities.</li>
+          </ul></td>
+          <td><ul>
+            <li>Instructor fulfills all operational responsibilities and goes above and beyond to help the school.</li>
+          </ul></td>
+        </tr>
+      </table>
+      <div class="section">
+        <ul>
+          <li><a href="https://docs.google.com/document/d/1dznTV85QGEC9vCBwGDrk6RsKgPhX5wnp8yCijgOAGg4/edit?usp=sharing">Austin Operational Responsibilites</a></li>
+          <li><a href="https://docs.google.com/document/d/1RiUF_cZu9fQyUWM1Om89OzQLzeIhHeKLNRrhGsKbg4Q/edit?usp=sharing">San Antonio Operational Responsibilites</a></li>
+        </ul>
+      </div>
     </div>
-  </div>
-</body>
-</html>
+    <div class="asset">
+      <h2 id="coaching-and-evaluation">Coaching and Evaluation</h2>
+      <div class="section">
+        <ul>
+          <li>Every instructor and TA will be evaluated once per quarter.</li>
+          <li><a href="https://docs.google.com/document/d/19Nc7GvRcQwSN78s7UQgjGhbP41DYFzXDAGM1UBKjFmA/edit?usp=sharing">Instructor Evaluation Form</a></li>
+        </ul>
+        <br>
+        <div class="h_iframe">
+          <img class="ratio" src="http://placehold.it/8x6/ffffff/ffffff">
+          <iframe src="https://docs.google.com/document/d/19Nc7GvRcQwSN78s7UQgjGhbP41DYFzXDAGM1UBKjFmA/pub" style="border: 0" frameborder="0" scrolling="yes"></iframe>
+        </div>
+        <br>
+        <ul>
+          <li><a href="https://docs.google.com/document/d/1mb5RDpWlDcQ0zuRIPkvYXQd8xduSaOsRGyNhr8sFZL8/edit?usp=sharing">TA Evaluation Form</a></li>
+        </ul>
+        <br>
+        <div class="h_iframe">
+          <img class="ratio" src="http://placehold.it/8x6/ffffff/ffffff">
+          <iframe src="https://docs.google.com/document/d/1mb5RDpWlDcQ0zuRIPkvYXQd8xduSaOsRGyNhr8sFZL8/pub" style="border: 0" frameborder="0" scrolling="yes"></iframe>
+        </div>
+        <br>
+      </div>
+    </div>
+    <div class="asset">
+      <h2 id="on-boarding-paperwork">On-Boarding Paperwork</h2>
+      <div class="section">
+        <p>
+          All new hires must complete on-boarding paperwork:
+        </p>
+        <ul>
+          <li>Link to onboarding paperwork coming soon</li>
+        </ul>
+      </div>
+    </div>
+  </body>
+  </html>
