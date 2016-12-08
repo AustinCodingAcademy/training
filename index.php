@@ -7,6 +7,8 @@
 </head>
 <body>
   <div class="asset">
+    <img src="img/ACA_standard_horizontal.png" alt="Austin Coding Academy" class="logo">
+    <img src="img/SACA_Horizontal.png" alt="San Antonio Coding Academy" class="logo">
     <h1>Instructor Training</h1>
     <div class="section">
       <p>During this training, you will work in 3 domains: Planning, Teaching, and Professionalism. Each domain consists of
