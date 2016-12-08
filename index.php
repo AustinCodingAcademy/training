@@ -520,7 +520,7 @@
         </ul>
         <br>
         <div class="h_iframe">
-          <img class="ratio" src="http://placehold.it/8x6/ffffff/ffffff">
+          <img class="ratio" src="http://placehold.it/8x4/ffffff/ffffff">
           <iframe src="https://docs.google.com/document/d/1mb5RDpWlDcQ0zuRIPkvYXQd8xduSaOsRGyNhr8sFZL8/pub" style="border: 0" frameborder="0" scrolling="yes"></iframe>
         </div>
         <br>
