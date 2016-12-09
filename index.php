@@ -52,14 +52,14 @@
     <p><a href="#adult-learning-strategies">Adult Learning Strategies</a></p>
     <p><a href="#class-structure-and-layout">Class Structure and Layout</a></p>
     <h2>Domain 3: Professionalism</h2>
-    <p><a href="#economic-collaboratives">Economic Collaboratives</a></p>
+    <p><a href="#economic-collaboratives">Economic Collaborative</a></p>
     <p><a href="#continued-learning">Continued Learning</a></p>
     <p><a href="#ethics-and-sensitivity">Ethics and Sensitivity</a></p>
     <p><a href="#operational-responsibilities">Operational Responsibilities</a></p>
     <p><a href="#coaching-and-evaluation">Coaching and Evaluation</a></p>
     <p><a href="#on-boarding-paperwork">On-Boarding Paperwork</a></p>
-
-    <!--<h2><a href="/helpful-links.php">Helpful Links</a></h2>-->
+    <br>
+    <p><a href="/helpful-links.php">Helpful Links</a></p>
   </div>
 
   <div class="asset">
@@ -95,7 +95,7 @@
       </ul>
     </div>
     <div class="h_iframe">
-      <img class="ratio" src="http://placehold.it/8x6/ffffff/ffffff">
+      <img class="ratio" src="http://placehold.it/8x4/ffffff/ffffff">
       <iframe src="https://www.youtube.com/embed/6cmV5C9LtEY?t=10s" style="border: 0" frameborder="0" scrolling="yes"></iframe>
     </div>
     <div class="section">
@@ -178,7 +178,7 @@
     </div>
     <br>
     <div class="h_iframe">
-      <img class="ratio" src="http://placehold.it/8x6/ffffff/ffffff">
+      <img class="ratio" src="http://placehold.it/8x4/ffffff/ffffff">
       <iframe src="https://www.youtube.com/embed/J-swZaKN2Ic" style="border: 0" frameborder="0" scrolling="yes"></iframe>
     </div>
     <br>
@@ -202,7 +202,7 @@
       </ul>
     </div>
     <div class="h_iframe">
-      <img class="ratio" src="http://placehold.it/8x14/ffffff/ffffff">
+      <img class="ratio" src="http://placehold.it/8x4/ffffff/ffffff">
       <iframe src="https://www.youtube.com/embed/-q7tjM0TKh0" style="border: 0" frameborder="0" scrolling="yes"></iframe>
     </div>
     <div class="section">
@@ -283,6 +283,10 @@
         </ul>
       </p>
     </div>
+    <div class="h_iframe">
+      <img class="ratio" src="http://placehold.it/8x12/ffffff/ffffff">
+      <iframe src="https://docs.google.com/a/austincodingacademy.com/forms/d/e/1FAIpQLScjbo6mppxYv1tRciYdz5H6A12ZHdE1lMWcMT7osTpjwlg6_w/viewform?embedded=true" style="border: 0" frameborder="0" scrolling="yes"></iframe>
+    </div>
   </div>
   <div class="asset">
     <h2 id="student-engagement">Student Engagement</h2>
@@ -324,7 +328,12 @@
         <li>Adult learners are different because they are busy with work and family. A good instructor constantly reminds students of their goal (a new career) and communicates every learning activity as a step towards achieving this goal. Adults find meaning in activites they deem relevant to their interests.</li>
         <li>Our ability to engage our students in the intellectual activity of web development will be the deciding factor for their success.</li>
         <li>Engage students every minute of every class!</li>
+        <li>Reach out to students with missing work or low grades. Ensure they get the support they need to be successful.</li>
       </ul>
+    </div>
+    <div class="h_iframe">
+      <img class="ratio" src="http://placehold.it/8x12/ffffff/ffffff">
+      <iframe src="https://docs.google.com/a/austincodingacademy.com/forms/d/e/1FAIpQLSdUWt1anAP2GRftpBPTEPa9vsFKvMc_lhBdeajF0to5ZK3bgg/viewform?embedded=true" style="border: 0" frameborder="0" scrolling="yes"></iframe>
     </div>
   </div>
   <div class="asset">
@@ -357,19 +366,32 @@
     </table>
     <div class="section">
       <ul>
-        <li>Following adult learning strategies = good teaching!</li>
-        <li>Watch the video below to learn about common characteristics of adult learners:</li>
+        <li>Watch the video below to get an introduction to Adult Learning Strategies.</li>
       </ul>
     </div>
     <br>
     <div class="h_iframe">
-      <img class="ratio" src="http://placehold.it/8x6/ffffff/ffffff">
-      <iframe src="https://www.youtube.com/embed/DSupWyxNIN0" style="border: 0" frameborder="0" scrolling="yes"></iframe>
+      <img class="ratio" src="http://placehold.it/8x4/ffffff/ffffff">
+      <iframe src="https://www.youtube.com/embed/8lvkJhXnEZk" style="border: 0" frameborder="0" scrolling="yes"></iframe>
     </div>
     <br>
+    <div class="section">
+      <h2>Our Approach to Adult Learning</h2>
+      <ul>
+        <li>Project-Based and Self-Directed Learning. <a href="http://epltt.coe.uga.edu/index.php?title=Adult_Learning" target="_blank">Read this article to learn about these approaches</a>.</li>
+        <li>Utilization of Problem Solving Approach. We teach critical thinking. Students should use problem solving approaches such as whiteboarding and wireframing.</li>
+        <li>Pair/Group Programming. Students need to work together to help each member of the group learn.</li>
+        <li>Share Learning. Have students share what they learn with the class. This leads to more peer-to-peer teaching which is much more effective than lecturing.</li>
+      </ul>
+      <p>Class time is spent with hands-on learninig and problem solving. The lectures are short, and the majority of class time is spent building websites and apps. By assigning projects, we provide students the opportunity to apply the concepts and skills covered in the lectures. Through application, questions will appear, and the TA and Instructor will be available during work time to answer these questions.</p>
+    </div>
+    <div class="h_iframe">
+      <img class="ratio" src="http://placehold.it/8x12/ffffff/ffffff">
+      <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSf7MkZqBk87dSGM9ERCMH-3HIF2Lri9GiG0ES6jON6_OZkDWg/viewform?embedded=true" style="border: 0" frameborder="0" scrolling="yes"></iframe>
+    </div>
   </div>
   <div class="asset">
-    <h2 id="class-structure-and-layout">Class Structures and Layout</h2>
+    <h2 id="class-structure-and-layout">Class Structure and Layout</h2>
     <table>
       <tr>
         <th>Padawan</th>
@@ -396,19 +418,35 @@
     </table>
     <div class="section">
       <ul>
-        <li>Clearly communicate expectations to students.</li>
-        <li>Read over our <a href="https://docs.google.com/document/d/12yrtM2fiMMH1KPsqB12j4s5ypx-lWZXLCheyIhVw8-A/pub" target="_blank">official grading policies</a>.</li>
+        <li>Email important information to students such as due dates and schedule changes. Do not depend on Rocket Chat or word of mouth.</li>
+        <li>Clearly communicate expectations to students. Students need to know when homework is due. They need to know when projects are due. They need to know when checkpoints are and how and when to submit corrections.</li>
+        <li>Using gogole forms to create rubrics for the Checkpoints. Using a google form for each student, give them a grade and provide specific feedback to them on what they need to improve. See below a video of how to grade checkpoints and an example of a rubric.</li>
       </ul>
     </div>
+    <div class="h_iframe">
+      <img class="ratio" src="http://placehold.it/8x4/ffffff/ffffff">
+      <iframe src="https://docs.google.com/a/austincodingacademy.com/forms/d/e/1FAIpQLSfkSkneAWFBkHVXIchkqPlbBVw7VzAp9PFbSCz0S5TtEaxySA/viewform?c=0&w=1" style="border: 0" frameborder="0" scrolling="yes"></iframe>
+    </div>
+    <br>
+    <div class="h_iframe">
+      <img class="ratio" src="http://placehold.it/8x4/ffffff/ffffff">
+      <iframe src="https://www.youtube.com/embed/F3fYSLerBtk" style="border: 0" frameborder="0" scrolling="yes"></iframe>
+    </div>
+      <h3>Review our <a href="https://docs.google.com/document/d/12yrtM2fiMMH1KPsqB12j4s5ypx-lWZXLCheyIhVw8-A/pub" target="_blank">official grading policies</a>:</h2>
     <br>
     <div class="h_iframe">
       <img class="ratio" src="http://placehold.it/8x4/ffffff/ffffff">
       <iframe src="https://docs.google.com/document/d/12yrtM2fiMMH1KPsqB12j4s5ypx-lWZXLCheyIhVw8-A/pub" style="border: 0" frameborder="0" scrolling="yes"></iframe>
     </div>
     <br>
+    <h3>Complete the assessment below:</h3>
+    <div class="h_iframe">
+      <img class="ratio" src="http://placehold.it/8x8/ffffff/ffffff">
+      <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfVoXU-wmc3HTqrfkGBPwxx3OlMQNT7c9bVSQb2bPzHREPJxQ/viewform?embedded=true" style="border: 0" frameborder="0" scrolling="yes"></iframe>
+    </div>
   </div>
   <div class="asset">
-    <h2 id="economic-collaboratives">Economic Collaboration</h2>
+    <h2 id="economic-collaboratives">Economic Collaborative</h2>
     <table>
       <tr>
         <th>Padawan</th>
@@ -434,10 +472,27 @@
       <ul>
         <li>We empower our students to transform their future by learning technical skills.</li>
         <li>By succeeding in our mission, we will benefit our community.</li>
+        <li>Watch this vide explaining why our school was founded.</li>
       </ul>
     </div>
+    <div class="h_iframe">
+      <img class="ratio" src="http://placehold.it/8x4/ffffff/ffffff">
+      <iframe src="https://www.youtube.com/embed/RvlytBUgpa4" style="border: 0" frameborder="0" scrolling="yes"></iframe>
+    </div>
+    <h3>Read over the following testimonials from our students:</h3>
+    <img src="img/Natalie-Doucet.jpg" alt="Natalie Doucet" class="bio-pic">
+    <p>“I love Austin Coding Academy and can not say enough good things about them! ACA not only teaches you Full-Stack Web Development, but also provides you with crucial skills to aide you in finding a job upon (or even before) graduation. Everyone involved with this school is passionate about learning and is completely invested in helping all the students succeed. I was able to build a fantastic network of people not only from the teachers, but from other students as well. Hands down, there is not another coding bootcamp out there where you get this much bang for your buck.”<br>-Natalie Doucet</p>
+    <img src="img/Luke-Stenis1.jpg" alt="Luke Stenis" class="bio-pic">
+    <p>“I just completed the entire Full Stack curriculum at Austin Coding Academy and not only did they help me transition my career into coding, they helped me land a JavaScript Engineering job before I even graduated. The instructors are ‘wicked smart’, the curriculum is challenging in a good way, and the community is incredibly supportive. I recommend anyone looking to upgrade their skill set or a complete career change to look no further than ACA for the most affordable and flexible option available.”<br>-Luke Stenis</p>
+    <img src="img/Gizem-Yilmaz.jpg" alt="Gizem Yilmaz" class="bio-pic">
+    <p>“I was reluctant to attend an immersive course but I wasn’t making much progress on my own. I found ACA’s flexible option and decided to take the leap. I can honestly say that it was the best investment I’ve made. From the very beginning, what set ACA apart (and what made me stay) is their open door policy and attention to each student. They are always looking for ways to improve the school based on feedback from the students. They are also building an amazing community full of inspiring and supportive people. I have made friends, gained confidence and found a sweet job thanks to ACA.”<br>-Gizem Yilmaz</p>
+    <img src="img/Manny-Hagman.jpg" alt="Manny Hagman" class="bio-pic">
+    <p>“My classmates are amazing. I’ve never been surrounded by such serious and determined students. Their hunger and determination servers as great motivation to study and study often. The course work and cirriculum are demanding, but never overwhelming and someone is always available to point you in the right direction. I have completed both the intro and intermediate course at Austin Coding Academy (Austin Campus) and it has been one of the best decisions I have ever made. They truly care about what their students learn and are always there to listen and provide support.”<br>-Manny Hagman</p>
   </div>
-
+  <div class="h_iframe">
+    <img class="ratio" src="http://placehold.it/8x4/ffffff/ffffff">
+    <iframe src="https://docs.google.com/a/austincodingacademy.com/forms/d/e/1FAIpQLSdaduSCkosqesCgvzvrNLPgZ9AKY7EYBV_a8jp6p_dlAqWDjA/viewform?embedded=true" style="border: 0" frameborder="0" scrolling="yes"></iframe>
+  </div>
   <div class="asset">
     <h2 id="continued-learning">Continued Learning</h2>
     <table>
@@ -460,8 +515,13 @@
     </table>
     <div class="section">
       <ul>
-        <li>Continue to seek out learning opportunities.</li>
+        <li>Continue to seek out learning opportunities both in development and instructional strategies.</li>
+        <li>Loook over the <a href="/continued-learning.php" target="_blank">continued learning page</a>.</li>
       </ul>
+    </div>
+    <div class="h_iframe">
+      <img class="ratio" src="http://placehold.it/8x4/ffffff/ffffff">
+      <iframe src="https://docs.google.com/a/austincodingacademy.com/forms/d/e/1FAIpQLSfVmRXbtrljqz7d1TUdCXqkoATojzlO2WzVHTtt2QlpdYb2cQ/viewform?embedded=true" style="border: 0" frameborder="0" scrolling="yes"></iframe>
     </div>
   </div>
   <div class="asset">
@@ -502,6 +562,10 @@
         <li>Trust is earned.</li>
       </ol>
     </div>
+    <div class="h_iframe">
+      <img class="ratio" src="http://placehold.it/8x8/ffffff/ffffff">
+      <iframe src="https://docs.google.com/a/austincodingacademy.com/forms/d/e/1FAIpQLSf-UmoRTx4KAczNYuWWkkLuN2e4hCpsPNKYf64aYFj-BmA2yg/viewform?embedded=true" style="border: 0" frameborder="0" scrolling="yes"></iframe>
+    </div>
   </div>
   <div class="asset">
     <h2 id="operational-responsibilities">Operational Responsibilities</h2>
@@ -525,9 +589,14 @@
     </table>
     <div class="section">
       <ul>
+        <li>It's super important that instructors and TAs help with logistics. Read over your city's operational responsibilities and ask any questions in form below.</li>
         <li><a href="https://docs.google.com/document/d/1dznTV85QGEC9vCBwGDrk6RsKgPhX5wnp8yCijgOAGg4/edit?usp=sharing" target="_blank">Austin Operational Responsibilites</a></li>
         <li><a href="https://docs.google.com/document/d/1RiUF_cZu9fQyUWM1Om89OzQLzeIhHeKLNRrhGsKbg4Q/edit?usp=sharing" target="_blank">San Antonio Operational Responsibilites</a></li>
       </ul>
+    </div>
+    <div class="h_iframe">
+      <img class="ratio" src="http://placehold.it/8x8/ffffff/ffffff">
+      <iframe src="https://docs.google.com/a/austincodingacademy.com/forms/d/e/1FAIpQLSfRxrIdG7wM2ldopsvW0tS3t1lhJQ9OGXPbGokpqy2tcN9QFQ/viewform?embedded=true" style="border: 0" frameborder="0" scrolling="yes"></iframe>
     </div>
   </div>
   <div class="asset">
@@ -557,10 +626,8 @@
   <div class="asset">
     <h2 id="on-boarding-paperwork">On-Boarding Paperwork</h2>
     <div class="section">
-      <p>
-        All new hires must complete on-boarding paperwork:
-      </p>
       <ul>
+        <li>All new hires must complete on-boarding paperwork:</li>
         <li>Link to onboarding paperwork coming soon</li>
       </ul>
     </div>

@@ -1,7 +1,7 @@
 body {
   max-width: 1000px;
   margin: auto;
-  padding: 10px;
+  padding: 5px;
   color: #004667;
   background-color: #4285f4;
 }
@@ -10,9 +10,13 @@ html,body {
   height:100%;
 }
 
+h {
+  text-align: center;
+}
+
 .wrapper {
-  width:80%;
-  height:100%;
+  width: 80%;
+  height: 100%;
   margin:0 auto;
   background:#CCC
 }
@@ -22,9 +26,9 @@ html,body {
 }
 
 .h_iframe .ratio {
-  display:block;
+  display: block;
   width:100%;
-  height:auto;
+  height: auto;
 }
 
   .h_iframe iframe {
@@ -62,6 +66,13 @@ html,body {
   min-width: 200px;
   margin: auto;
 }
+
+.bio-pic{
+  width: 20%;
+  min-width: 200px;
+  margin: auto;
+}
+
 table {
     border: 1px solid black;
     width: 100%;
