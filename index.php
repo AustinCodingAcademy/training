@@ -11,14 +11,12 @@
     <img src="img/SACA_Horizontal.png" alt="San Antonio Coding Academy" class="logo">
     <img src="img/teaching.JPG" alt="Austin Coding Academy" class="pic">
     <h1>Instructor Training</h1>
-    <div class="section">
-      <p>During this training, you will work in 3 domains: Planning, Teaching, and Professionalism. Each domain consists of
-        several assets. The assets link to their own sections. These sections include the evaluation rubric and links to learning content.
-      </p>
-      <p>
-        During Academic Quality Reviews, you will receive a rating for each asset. There are 3 possibilities: Padawan, Jedi Knight, and Jedi Master.
-      </p>
-    </div>
+    <p>During this training, you will work in 3 domains: Planning, Teaching, and Professionalism. Each domain consists of
+      several assets. The assets link to their own sections.
+    </p>
+    <p>
+      During Academic Quality Reviews, you will receive a rating for each asset. There are 3 possibilities: Padawan, Jedi Knight, and Jedi Master.
+    </p>
     <table>
       <tr>
         <th>Padawan</th>
