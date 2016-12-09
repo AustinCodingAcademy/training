@@ -43,6 +43,12 @@
         </td>
       </tr>
     </table>
+    <p>
+      Each asset's section begins with a rubric that defines the asset at the level of Padawan, Jedi Knight, and Jedi Master. In addition, each asset's section contains learning content which includes test, videos, and google forms to complete. Please fill out all google forms and complete all assignments.
+    </p>
+    <p>
+      If you have questions, <a href="mailto:someone@example.com?Subject=Hello%20again" target="_top">send an email clofton@austincodingacademy.com</a>
+    </p>
     <h2>Domain 1: Planning</h2>
     <p><a href="#knowledge-of-students">Knowledge of Students</a></p>
     <p><a href="#lesson-cycle">Lesson Cycle</a></p>
@@ -432,205 +438,205 @@
       <img class="ratio" src="http://placehold.it/8x4/ffffff/ffffff">
       <iframe src="https://www.youtube.com/embed/F3fYSLerBtk" style="border: 0" frameborder="0" scrolling="yes"></iframe>
     </div>
-      <h3>Review our <a href="https://docs.google.com/document/d/12yrtM2fiMMH1KPsqB12j4s5ypx-lWZXLCheyIhVw8-A/pub" target="_blank">official grading policies</a>:</h2>
-    <br>
-    <div class="h_iframe">
-      <img class="ratio" src="http://placehold.it/8x4/ffffff/ffffff">
-      <iframe src="https://docs.google.com/document/d/12yrtM2fiMMH1KPsqB12j4s5ypx-lWZXLCheyIhVw8-A/pub" style="border: 0" frameborder="0" scrolling="yes"></iframe>
-    </div>
-    <br>
-    <h3>Complete the assessment below:</h3>
-    <div class="h_iframe">
-      <img class="ratio" src="http://placehold.it/8x8/ffffff/ffffff">
-      <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfVoXU-wmc3HTqrfkGBPwxx3OlMQNT7c9bVSQb2bPzHREPJxQ/viewform?embedded=true" style="border: 0" frameborder="0" scrolling="yes"></iframe>
-    </div>
-  </div>
-  <div class="asset">
-    <h2 id="economic-collaboratives">Economic Collaborative</h2>
-    <table>
-      <tr>
-        <th>Padawan</th>
-        <th>Jedi Knight</th>
-        <th>Jedi Master</th>
-      </tr>
-      <tr>
-        <td><ul>
-          <li>Instructor completes minimum requirements and works for a paycheck.</li>
-        </ul></td>
-        <td><ul>
-          <li>Instructor works towards empowering the future generation of developers.</li>
-        </ul></td>
-        <td><ul>
-          <li>Instructor exceeded expectations by demonstrating a passion to empower the future generation of developers.</li>
-        </ul></td>
-      </tr>
-    </table>
-    <div class="section">
-      <p>
-        Our mission at Austin Coding Academy is to get 100,000 people into tech careers that otherwise wouldn't be. Why? We believe that due to a lack of educational options, the tech community is missing in diversity. We believe that through effective and compassionate education everyone can learn to code. Bringing more people into tech is important because the tech community is literally building our future. Not only is this important for our society as a whole, but many people have a lot of potential they are not accessing in their current careers. We want to be the difference in these peoples' lives. We want to be the bridge to their better future. We want to empower them to create their own future - to become the developers and entrepreneurs our world needs.
-      </p>
-      <ul>
-        <li>We empower our students to transform their future by learning technical skills.</li>
-        <li>By succeeding in our mission, we will benefit our community.</li>
-        <li>Watch this vide explaining why our school was founded.</li>
-      </ul>
-    </div>
-    <div class="h_iframe">
-      <img class="ratio" src="http://placehold.it/8x4/ffffff/ffffff">
-      <iframe src="https://www.youtube.com/embed/RvlytBUgpa4" style="border: 0" frameborder="0" scrolling="yes"></iframe>
-    </div>
-    <h3>Read over the following testimonials from our students:</h3>
-    <img src="img/Natalie-Doucet.jpg" alt="Natalie Doucet" class="bio-pic">
-    <p>“I love Austin Coding Academy and can not say enough good things about them! ACA not only teaches you Full-Stack Web Development, but also provides you with crucial skills to aide you in finding a job upon (or even before) graduation. Everyone involved with this school is passionate about learning and is completely invested in helping all the students succeed. I was able to build a fantastic network of people not only from the teachers, but from other students as well. Hands down, there is not another coding bootcamp out there where you get this much bang for your buck.”<br>-Natalie Doucet</p>
-    <img src="img/Luke-Stenis1.jpg" alt="Luke Stenis" class="bio-pic">
-    <p>“I just completed the entire Full Stack curriculum at Austin Coding Academy and not only did they help me transition my career into coding, they helped me land a JavaScript Engineering job before I even graduated. The instructors are ‘wicked smart’, the curriculum is challenging in a good way, and the community is incredibly supportive. I recommend anyone looking to upgrade their skill set or a complete career change to look no further than ACA for the most affordable and flexible option available.”<br>-Luke Stenis</p>
-    <img src="img/Gizem-Yilmaz.jpg" alt="Gizem Yilmaz" class="bio-pic">
-    <p>“I was reluctant to attend an immersive course but I wasn’t making much progress on my own. I found ACA’s flexible option and decided to take the leap. I can honestly say that it was the best investment I’ve made. From the very beginning, what set ACA apart (and what made me stay) is their open door policy and attention to each student. They are always looking for ways to improve the school based on feedback from the students. They are also building an amazing community full of inspiring and supportive people. I have made friends, gained confidence and found a sweet job thanks to ACA.”<br>-Gizem Yilmaz</p>
-    <img src="img/Manny-Hagman.jpg" alt="Manny Hagman" class="bio-pic">
-    <p>“My classmates are amazing. I’ve never been surrounded by such serious and determined students. Their hunger and determination servers as great motivation to study and study often. The course work and cirriculum are demanding, but never overwhelming and someone is always available to point you in the right direction. I have completed both the intro and intermediate course at Austin Coding Academy (Austin Campus) and it has been one of the best decisions I have ever made. They truly care about what their students learn and are always there to listen and provide support.”<br>-Manny Hagman</p>
-  </div>
-  <div class="h_iframe">
-    <img class="ratio" src="http://placehold.it/8x4/ffffff/ffffff">
-    <iframe src="https://docs.google.com/a/austincodingacademy.com/forms/d/e/1FAIpQLSdaduSCkosqesCgvzvrNLPgZ9AKY7EYBV_a8jp6p_dlAqWDjA/viewform?embedded=true" style="border: 0" frameborder="0" scrolling="yes"></iframe>
-  </div>
-  <div class="asset">
-    <h2 id="continued-learning">Continued Learning</h2>
-    <table>
-      <tr>
-        <th>Padawan</th>
-        <th>Jedi Knight</th>
-        <th>Jedi Master</th>
-      </tr>
-      <tr>
-        <td><ul>
-          <li>Instructor seldom seeks out learning resources to develop instructional abilities and programming skills.</li>
-        </ul></td>
-        <td><ul>
-          <li>Instructor usually seeks out learning resources to develop instructional abilities and programming skills.</li>
-        </ul></td>
-        <td><ul>
-          <li>Instructor always seeks out learning resources to develop instructional abilities and programming skills.</li>
-        </ul></td>
-      </tr>
-    </table>
-    <div class="section">
-      <ul>
-        <li>Continue to seek out learning opportunities both in development and instructional strategies.</li>
-        <li>Loook over the <a href="/continued-learning.php" target="_blank">continued learning page</a>.</li>
-      </ul>
-    </div>
-    <div class="h_iframe">
-      <img class="ratio" src="http://placehold.it/8x4/ffffff/ffffff">
-      <iframe src="https://docs.google.com/a/austincodingacademy.com/forms/d/e/1FAIpQLSfVmRXbtrljqz7d1TUdCXqkoATojzlO2WzVHTtt2QlpdYb2cQ/viewform?embedded=true" style="border: 0" frameborder="0" scrolling="yes"></iframe>
-    </div>
-  </div>
-  <div class="asset">
-    <h2 id="ethics-and-sensitivity">Ethics and Sensitivity</h2>
-    <table>
-      <tr>
-        <th>Padawan</th>
-        <th>Jedi Knight</th>
-        <th>Jedi Master</th>
-      </tr>
-      <tr>
-        <td><ul>
-          <li>Instructor follows ethics and sensitivity protocols.</li>
-          <li>Instructor sometimes engages in borderline offensive behavior or speech (political jokes, meeting students privately outside of class ).</li>
-        </ul></td>
-        <td><ul>
-          <li>Instructor follows ethics and sensitivity protocols.</li>
-          <li>Instructor does not engage in borderline offensive behavior or speech (political jokes, meeting students privately outside of class).</li>
-        </ul></td>
-        <td><ul>
-          <li>Instructor follows ethics and sensitivity protocols.</li>
-          <li>Instructor enforces ethics and sensitivity guidelines in classroom and teaches students how to behave and communicate in a professional environment.</li>
-        </ul></td>
-      </tr>
-    </table>
-    <div class="section">
-      <p>We create a safe space for all of our students and employees. It's very important that we, as leaders of the school, do our part to model and represent these qualities for our students.</p>
-      <h4>Ethics</h4>
-      <ol>
-        <li>Avoid sensitive topics.</li>
-        <li>Be honest.</li>
-        <li>Understand that students are just learning and be patient with them.</li>
-        <li>Act with compassion. Put yourself in the perspective of your students.</li>
-        <li>Always respect everyone.</li>
-        <li>Take steps to make sure students are comfortable.</li>
-        <li>In a difficult situation, don't be afraid to ask for help!</li>
-        <li>An apology can go along way.</li>
-        <li>Trust is earned.</li>
-      </ol>
-    </div>
-    <div class="h_iframe">
-      <img class="ratio" src="http://placehold.it/8x8/ffffff/ffffff">
-      <iframe src="https://docs.google.com/a/austincodingacademy.com/forms/d/e/1FAIpQLSf-UmoRTx4KAczNYuWWkkLuN2e4hCpsPNKYf64aYFj-BmA2yg/viewform?embedded=true" style="border: 0" frameborder="0" scrolling="yes"></iframe>
-    </div>
-  </div>
-  <div class="asset">
-    <h2 id="operational-responsibilities">Operational Responsibilities</h2>
-    <table>
-      <tr>
-        <th>Padawan</th>
-        <th>Jedi Knight</th>
-        <th>Jedi Master</th>
-      </tr>
-      <tr>
-        <td><ul>
-          <li>Instructor struggles to complete operational responsibilities.</li>
-        </ul></td>
-        <td><ul>
-          <li>Instructor fulfills all operational responsibilities.</li>
-        </ul></td>
-        <td><ul>
-          <li>Instructor fulfills all operational responsibilities and goes above and beyond to help the school.</li>
-        </ul></td>
-      </tr>
-    </table>
-    <div class="section">
-      <ul>
-        <li>It's super important that instructors and TAs help with logistics. Read over your city's operational responsibilities and ask any questions in form below.</li>
-        <li><a href="https://docs.google.com/document/d/1dznTV85QGEC9vCBwGDrk6RsKgPhX5wnp8yCijgOAGg4/edit?usp=sharing" target="_blank">Austin Operational Responsibilites</a></li>
-        <li><a href="https://docs.google.com/document/d/1RiUF_cZu9fQyUWM1Om89OzQLzeIhHeKLNRrhGsKbg4Q/edit?usp=sharing" target="_blank">San Antonio Operational Responsibilites</a></li>
-      </ul>
-    </div>
-    <div class="h_iframe">
-      <img class="ratio" src="http://placehold.it/8x8/ffffff/ffffff">
-      <iframe src="https://docs.google.com/a/austincodingacademy.com/forms/d/e/1FAIpQLSfRxrIdG7wM2ldopsvW0tS3t1lhJQ9OGXPbGokpqy2tcN9QFQ/viewform?embedded=true" style="border: 0" frameborder="0" scrolling="yes"></iframe>
-    </div>
-  </div>
-  <div class="asset">
-    <h2 id="coaching-and-evaluation">Coaching and Evaluation</h2>
-    <div class="section">
-      <ul>
-        <li>Every instructor and TA will be evaluated once per quarter.</li>
-        <li><a href="https://docs.google.com/document/d/19Nc7GvRcQwSN78s7UQgjGhbP41DYFzXDAGM1UBKjFmA/edit?usp=sharing" target="_blank">Instructor Evaluation Form</a></li>
-      </ul>
-      <br>
-      <div class="h_iframe">
-        <img class="ratio" src="http://placehold.it/8x15/ffffff/ffffff">
-        <iframe src="https://docs.google.com/document/d/19Nc7GvRcQwSN78s7UQgjGhbP41DYFzXDAGM1UBKjFmA/pub" style="border: 0" frameborder="0" scrolling="yes"></iframe>
-      </div>
-      <br>
-      <ul>
-        <li><a href="https://docs.google.com/document/d/1mb5RDpWlDcQ0zuRIPkvYXQd8xduSaOsRGyNhr8sFZL8/edit?usp=sharing" target="_blank">TA Evaluation Form</a></li>
-      </ul>
+    <h3>Review our <a href="https://docs.google.com/document/d/12yrtM2fiMMH1KPsqB12j4s5ypx-lWZXLCheyIhVw8-A/pub" target="_blank">official grading policies</a>:</h2>
       <br>
       <div class="h_iframe">
         <img class="ratio" src="http://placehold.it/8x4/ffffff/ffffff">
-        <iframe src="https://docs.google.com/document/d/1mb5RDpWlDcQ0zuRIPkvYXQd8xduSaOsRGyNhr8sFZL8/pub" style="border: 0" frameborder="0" scrolling="yes"></iframe>
+        <iframe src="https://docs.google.com/document/d/12yrtM2fiMMH1KPsqB12j4s5ypx-lWZXLCheyIhVw8-A/pub" style="border: 0" frameborder="0" scrolling="yes"></iframe>
       </div>
       <br>
+      <h3>Complete the assessment below:</h3>
+      <div class="h_iframe">
+        <img class="ratio" src="http://placehold.it/8x8/ffffff/ffffff">
+        <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfVoXU-wmc3HTqrfkGBPwxx3OlMQNT7c9bVSQb2bPzHREPJxQ/viewform?embedded=true" style="border: 0" frameborder="0" scrolling="yes"></iframe>
+      </div>
     </div>
-  </div>
-  <div class="asset">
-    <h2 id="on-boarding-paperwork">On-Boarding Paperwork</h2>
-    <div class="section">
-      <ul>
-        <li>All new hires must complete on-boarding paperwork:</li>
-        <li>Link to onboarding paperwork coming soon</li>
-      </ul>
+    <div class="asset">
+      <h2 id="economic-collaboratives">Economic Collaborative</h2>
+      <table>
+        <tr>
+          <th>Padawan</th>
+          <th>Jedi Knight</th>
+          <th>Jedi Master</th>
+        </tr>
+        <tr>
+          <td><ul>
+            <li>Instructor completes minimum requirements and works for a paycheck.</li>
+          </ul></td>
+          <td><ul>
+            <li>Instructor works towards empowering the future generation of developers.</li>
+          </ul></td>
+          <td><ul>
+            <li>Instructor exceeded expectations by demonstrating a passion to empower the future generation of developers.</li>
+          </ul></td>
+        </tr>
+      </table>
+      <div class="section">
+        <p>
+          Our mission at Austin Coding Academy is to get 100,000 people into tech careers that otherwise wouldn't be. Why? We believe that due to a lack of educational options, the tech community is missing in diversity. We believe that through effective and compassionate education everyone can learn to code. Bringing more people into tech is important because the tech community is literally building our future. Not only is this important for our society as a whole, but many people have a lot of potential they are not accessing in their current careers. We want to be the difference in these peoples' lives. We want to be the bridge to their better future. We want to empower them to create their own future - to become the developers and entrepreneurs our world needs.
+        </p>
+        <ul>
+          <li>We empower our students to transform their future by learning technical skills.</li>
+          <li>By succeeding in our mission, we will benefit our community.</li>
+          <li>Watch this vide explaining why our school was founded.</li>
+        </ul>
+      </div>
+      <div class="h_iframe">
+        <img class="ratio" src="http://placehold.it/8x4/ffffff/ffffff">
+        <iframe src="https://www.youtube.com/embed/RvlytBUgpa4" style="border: 0" frameborder="0" scrolling="yes"></iframe>
+      </div>
+      <h3>Read over the following testimonials from our students:</h3>
+      <img src="img/Natalie-Doucet.jpg" alt="Natalie Doucet" class="bio-pic">
+      <p>“I love Austin Coding Academy and can not say enough good things about them! ACA not only teaches you Full-Stack Web Development, but also provides you with crucial skills to aide you in finding a job upon (or even before) graduation. Everyone involved with this school is passionate about learning and is completely invested in helping all the students succeed. I was able to build a fantastic network of people not only from the teachers, but from other students as well. Hands down, there is not another coding bootcamp out there where you get this much bang for your buck.”<br>-Natalie Doucet</p>
+      <img src="img/Luke-Stenis1.jpg" alt="Luke Stenis" class="bio-pic">
+      <p>“I just completed the entire Full Stack curriculum at Austin Coding Academy and not only did they help me transition my career into coding, they helped me land a JavaScript Engineering job before I even graduated. The instructors are ‘wicked smart’, the curriculum is challenging in a good way, and the community is incredibly supportive. I recommend anyone looking to upgrade their skill set or a complete career change to look no further than ACA for the most affordable and flexible option available.”<br>-Luke Stenis</p>
+      <img src="img/Gizem-Yilmaz.jpg" alt="Gizem Yilmaz" class="bio-pic">
+      <p>“I was reluctant to attend an immersive course but I wasn’t making much progress on my own. I found ACA’s flexible option and decided to take the leap. I can honestly say that it was the best investment I’ve made. From the very beginning, what set ACA apart (and what made me stay) is their open door policy and attention to each student. They are always looking for ways to improve the school based on feedback from the students. They are also building an amazing community full of inspiring and supportive people. I have made friends, gained confidence and found a sweet job thanks to ACA.”<br>-Gizem Yilmaz</p>
+      <img src="img/Manny-Hagman.jpg" alt="Manny Hagman" class="bio-pic">
+      <p>“My classmates are amazing. I’ve never been surrounded by such serious and determined students. Their hunger and determination servers as great motivation to study and study often. The course work and cirriculum are demanding, but never overwhelming and someone is always available to point you in the right direction. I have completed both the intro and intermediate course at Austin Coding Academy (Austin Campus) and it has been one of the best decisions I have ever made. They truly care about what their students learn and are always there to listen and provide support.”<br>-Manny Hagman</p>
     </div>
-  </div>
-</body>
-</html>
+    <div class="h_iframe">
+      <img class="ratio" src="http://placehold.it/8x4/ffffff/ffffff">
+      <iframe src="https://docs.google.com/a/austincodingacademy.com/forms/d/e/1FAIpQLSdaduSCkosqesCgvzvrNLPgZ9AKY7EYBV_a8jp6p_dlAqWDjA/viewform?embedded=true" style="border: 0" frameborder="0" scrolling="yes"></iframe>
+    </div>
+    <div class="asset">
+      <h2 id="continued-learning">Continued Learning</h2>
+      <table>
+        <tr>
+          <th>Padawan</th>
+          <th>Jedi Knight</th>
+          <th>Jedi Master</th>
+        </tr>
+        <tr>
+          <td><ul>
+            <li>Instructor seldom seeks out learning resources to develop instructional abilities and programming skills.</li>
+          </ul></td>
+          <td><ul>
+            <li>Instructor usually seeks out learning resources to develop instructional abilities and programming skills.</li>
+          </ul></td>
+          <td><ul>
+            <li>Instructor always seeks out learning resources to develop instructional abilities and programming skills.</li>
+          </ul></td>
+        </tr>
+      </table>
+      <div class="section">
+        <ul>
+          <li>Continue to seek out learning opportunities both in development and instructional strategies.</li>
+          <li>Loook over the <a href="/continued-learning.php" target="_blank">continued learning page</a>.</li>
+        </ul>
+      </div>
+      <div class="h_iframe">
+        <img class="ratio" src="http://placehold.it/8x4/ffffff/ffffff">
+        <iframe src="https://docs.google.com/a/austincodingacademy.com/forms/d/e/1FAIpQLSfVmRXbtrljqz7d1TUdCXqkoATojzlO2WzVHTtt2QlpdYb2cQ/viewform?embedded=true" style="border: 0" frameborder="0" scrolling="yes"></iframe>
+      </div>
+    </div>
+    <div class="asset">
+      <h2 id="ethics-and-sensitivity">Ethics and Sensitivity</h2>
+      <table>
+        <tr>
+          <th>Padawan</th>
+          <th>Jedi Knight</th>
+          <th>Jedi Master</th>
+        </tr>
+        <tr>
+          <td><ul>
+            <li>Instructor follows ethics and sensitivity protocols.</li>
+            <li>Instructor sometimes engages in borderline offensive behavior or speech (political jokes, meeting students privately outside of class ).</li>
+          </ul></td>
+          <td><ul>
+            <li>Instructor follows ethics and sensitivity protocols.</li>
+            <li>Instructor does not engage in borderline offensive behavior or speech (political jokes, meeting students privately outside of class).</li>
+          </ul></td>
+          <td><ul>
+            <li>Instructor follows ethics and sensitivity protocols.</li>
+            <li>Instructor enforces ethics and sensitivity guidelines in classroom and teaches students how to behave and communicate in a professional environment.</li>
+          </ul></td>
+        </tr>
+      </table>
+      <div class="section">
+        <p>We create a safe space for all of our students and employees. It's very important that we, as leaders of the school, do our part to model and represent these qualities for our students.</p>
+        <h4>Ethics</h4>
+        <ol>
+          <li>Avoid sensitive topics.</li>
+          <li>Be honest.</li>
+          <li>Understand that students are just learning and be patient with them.</li>
+          <li>Act with compassion. Put yourself in the perspective of your students.</li>
+          <li>Always respect everyone.</li>
+          <li>Take steps to make sure students are comfortable.</li>
+          <li>In a difficult situation, don't be afraid to ask for help!</li>
+          <li>An apology can go along way.</li>
+          <li>Trust is earned.</li>
+        </ol>
+      </div>
+      <div class="h_iframe">
+        <img class="ratio" src="http://placehold.it/8x8/ffffff/ffffff">
+        <iframe src="https://docs.google.com/a/austincodingacademy.com/forms/d/e/1FAIpQLSf-UmoRTx4KAczNYuWWkkLuN2e4hCpsPNKYf64aYFj-BmA2yg/viewform?embedded=true" style="border: 0" frameborder="0" scrolling="yes"></iframe>
+      </div>
+    </div>
+    <div class="asset">
+      <h2 id="operational-responsibilities">Operational Responsibilities</h2>
+      <table>
+        <tr>
+          <th>Padawan</th>
+          <th>Jedi Knight</th>
+          <th>Jedi Master</th>
+        </tr>
+        <tr>
+          <td><ul>
+            <li>Instructor struggles to complete operational responsibilities.</li>
+          </ul></td>
+          <td><ul>
+            <li>Instructor fulfills all operational responsibilities.</li>
+          </ul></td>
+          <td><ul>
+            <li>Instructor fulfills all operational responsibilities and goes above and beyond to help the school.</li>
+          </ul></td>
+        </tr>
+      </table>
+      <div class="section">
+        <ul>
+          <li>It's super important that instructors and TAs help with logistics. Read over your city's operational responsibilities and ask any questions in form below.</li>
+          <li><a href="https://docs.google.com/document/d/1dznTV85QGEC9vCBwGDrk6RsKgPhX5wnp8yCijgOAGg4/edit?usp=sharing" target="_blank">Austin Operational Responsibilites</a></li>
+          <li><a href="https://docs.google.com/document/d/1RiUF_cZu9fQyUWM1Om89OzQLzeIhHeKLNRrhGsKbg4Q/edit?usp=sharing" target="_blank">San Antonio Operational Responsibilites</a></li>
+        </ul>
+      </div>
+      <div class="h_iframe">
+        <img class="ratio" src="http://placehold.it/8x8/ffffff/ffffff">
+        <iframe src="https://docs.google.com/a/austincodingacademy.com/forms/d/e/1FAIpQLSfRxrIdG7wM2ldopsvW0tS3t1lhJQ9OGXPbGokpqy2tcN9QFQ/viewform?embedded=true" style="border: 0" frameborder="0" scrolling="yes"></iframe>
+      </div>
+    </div>
+    <div class="asset">
+      <h2 id="coaching-and-evaluation">Coaching and Evaluation</h2>
+      <div class="section">
+        <ul>
+          <li>Every instructor and TA will be evaluated once per quarter.</li>
+          <li><a href="https://docs.google.com/document/d/19Nc7GvRcQwSN78s7UQgjGhbP41DYFzXDAGM1UBKjFmA/edit?usp=sharing" target="_blank">Instructor Evaluation Form</a></li>
+        </ul>
+        <br>
+        <div class="h_iframe">
+          <img class="ratio" src="http://placehold.it/8x15/ffffff/ffffff">
+          <iframe src="https://docs.google.com/document/d/19Nc7GvRcQwSN78s7UQgjGhbP41DYFzXDAGM1UBKjFmA/pub" style="border: 0" frameborder="0" scrolling="yes"></iframe>
+        </div>
+        <br>
+        <ul>
+          <li><a href="https://docs.google.com/document/d/1mb5RDpWlDcQ0zuRIPkvYXQd8xduSaOsRGyNhr8sFZL8/edit?usp=sharing" target="_blank">TA Evaluation Form</a></li>
+        </ul>
+        <br>
+        <div class="h_iframe">
+          <img class="ratio" src="http://placehold.it/8x4/ffffff/ffffff">
+          <iframe src="https://docs.google.com/document/d/1mb5RDpWlDcQ0zuRIPkvYXQd8xduSaOsRGyNhr8sFZL8/pub" style="border: 0" frameborder="0" scrolling="yes"></iframe>
+        </div>
+        <br>
+      </div>
+    </div>
+    <div class="asset">
+      <h2 id="on-boarding-paperwork">On-Boarding Paperwork</h2>
+      <div class="section">
+        <ul>
+          <li>All new hires must complete on-boarding paperwork:</li>
+          <li>Link to onboarding paperwork coming soon</li>
+        </ul>
+      </div>
+    </div>
+  </body>
+  </html>
